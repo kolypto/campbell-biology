@@ -9,7 +9,7 @@
 * [2. The Chemical Context of Life](chapters/02-Chemical-Context-of-Life.html)
 * [3. Water and Life](chapters/03-Water-and-Life.html)
 * [4. Carbon and the Molecular Diversity of Life](chapters/04-Carbon-and-Molecular-Diversity-of-Life.html)
-* [5. The Structure and Function of Large Biological Molecules](chapters/05-Carbon-and-Molecular-Diversity-of-Life.html)
+* [5. The Structure and Function of Large Biological Molecules](chapters/05-Structure-and-Function-of-Large-Biological-Molecules.html)
 
 ## Unit 2. The Cell
 ## Unit 3. Genetics
