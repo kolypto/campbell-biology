@@ -120,7 +120,7 @@ Three domains:
 
 Bacteria and Archaea are prokaryotic.
 
-Eukarya are all eukaryotes, include: kingdom Plantae, kingdom Fungi, kingrom Animalia, and the protists.
+Eukarya are all eukaryotes, include: kingdom Plantae, kingdom Fungi, kingdom Animalia, and the protists.
 
 The three kingdoms are distinguished partly by their modes of nutrition:
 
@@ -236,7 +236,7 @@ By conducting one or two additional experiments, we find support for one hypothe
 #### Hypothesis can't be proven
 Note: we can never prove that a hypothesis is true. Testing a hypothesis does not prove it correct, but may fail to prove it incorrect. Although a hypothesis can never be proved beyond the shadow of a doubt, testing it in various ways can significantly increase our confidence in its validity. Rounds of hypothesis formulation and testing may lead to a scientific consensus: the shared conclusion of many scientists that it explains the known data well and stands up to experimental testing.
 
-#### What can be addressed by sceience
+#### What can be addressed by science
 Not all questions can be addressed by science.
 
 A scientific hypothesis must be testable; there must be some observation or experiment that could reveal if such an idea is likely to be true or false.
@@ -245,7 +245,7 @@ Science only deals with natural, testable explanations for natural phenomena; it
 #### Case Study: Coat Coloration in Mouse Populations
 Two populations of mice that belong to the same species:
 
-* The beath mouse lives along the Florida seashore with brilliant sand dunes
+* The beach mouse lives along the Florida seashore with brilliant sand dunes
 * The inland mouse lives on darker soil
 
 ![Mice](img/01/mouse-fur-coloring-photos.png)
