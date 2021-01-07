@@ -242,6 +242,43 @@ Not all questions can be addressed by science.
 A scientific hypothesis must be testable; there must be some observation or experiment that could reveal if such an idea is likely to be true or false.
 Science only deals with natural, testable explanations for natural phenomena; it can neither support nor contradict some supernatural explanations, because those are simply outside the bounds of science. Science and religion are not mutually exclusive or contradictory; they are simply concerned with different issues.
 
-#### Case Study:
+#### Case Study: Coat Coloration in Mouse Populations
+Two populations of mice that belong to the same species:
 
-## 1.4
+* The beath mouse lives along the Florida seashore with brilliant sand dunes
+* The inland mouse lives on darker soil
+
+![Mice](img/01/mouse-fur-coloring-photos.png)
+
+The natural predators of these mice are all visual hunters (hawks, owls, foxes, coyotes).
+
+Hypothesis: their coloration patterns had evolved as adaptations that camouflage the mice in their native environments, protecting them from predation.
+
+Experiment: in 2020 biologists built hundreds of mice and spray-painted them to resemble either beach or inland mice. Models only differed in their color patterns. Placed them randomly, in equal numbers.
+
+* Control group: mice with colors resembling the local group.
+* Experimental group: mice with non-native coloration.
+
+In the morning, the team counted signs of predation. Camouflaged models showed much lower predation rates.
+
+Conclusion: data fits the prediction of the camouflage hypothesis.
+
+![Experimental Data](img/01/mouse-fur-coloring-experiment-data.png)
+
+#### Experimental Variables and Controls
+Ideally, a researcher would try to manipulate one factor in a system and observe the effects of this change.
+
+**Controlled experiment**: designed to compare an experimental group with a control group.
+
+**Independent variable**: the factor being manipulated.
+
+**Dependent variable**: the factor being measured that is predicted to be affected by the independent variable.
+
+The control group provides the baseline to compare the results against. Even in a controlled experiment scientists cannot control all features of the environment; instead, they would *cancel out* their effects by using control groups.
+
+### Theory
+A scientific **"theory"** is much broader than a hypothesis, and it is general enough to spin off many new, testable hypotheses. Also, a theory is generally supported by a much greater body of evidence.
+
+In spite of the body of evidence supporting a widely accepted theory, scientists will sometimes modify or even reject theories when new research produces results that don't fit.
+
+If there is "truth" in science, it is at best conditional, based on the weight of available evidence.
