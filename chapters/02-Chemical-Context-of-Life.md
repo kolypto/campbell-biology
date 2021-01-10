@@ -112,13 +112,24 @@ Atoms with the same number of electrons in their valence shells exhibit similar 
 
 ![Electron Distribution for the first 18 elements](img/02/electron-distibution-for-18-elements.png)
 
+Row: elements have the same number of electron shells.
+
+Column: elements have the same number of electrons in their valence shells.
+
 The first shell can only hold 2 electrons. The second and the third, 8.
 
 An atom with a compete valence shell is *inert*: unreactive; it will not interact readily with other atoms.
 
 ### Electron Orbitals
+We ca nnever know the exact location of an electron. Instead, we describe the sapce in which an electron spends 90% of its time: **orbitals**.
 
+The first orbital is a sphere (*1s*). The second has one sphere (*2s*) and three dumbbell-shaped *p*-orbitals (*2p* orbitals).
 
+![Orbitals for the first two shells](img/02/separate-electron-orbitals-for-first-two-shells.png)
+
+No more than 2 electrons can occupy a single orbital. That's why max 2 on the first shell, and 8 on the second.
+
+The reactivity of an atom arises from the presence of unpaired electrons in the valence shell.
 
 
 ## 2.3. The formation and function of molecules depend on chemical bonding between atoms
