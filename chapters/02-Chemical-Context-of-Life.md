@@ -35,6 +35,8 @@ Atoms are so small that it would take about a million of them to stretch across 
 
 Atoms are made of protons, neutrons, electrons. **Protons** give the nucleus a positive charge. **Electrons** form a "cloud" of negative charge around the nucleus. This interaction keeps them together.
 
+Atoms are mostly empty space. The nucleus of an atom is very small: if an atom of He were the size of a football stadium, the nucleus would be the size of a pencil eraser in the center of the field, and the electrons would be like tiny gnats buzzing around the stadium.
+
 For atoms and subatomic particles, mass is measured in **daltons**. A dalton is the same as the *atomic mass unit*. Neutrons and protons have masses close to 1 dalton. Electrons are only about 1/2000-th that of a neutron, so we can ignore them.
 
 ### Atomic Mass and Number
@@ -82,6 +84,41 @@ Data: a particular neanderthal fossil had 0.7×10⁻³ as much ¹⁴C as the atm
 Carbon dating works for fossils up to 75 000 years old. Older fossils contain too little ¹⁴C to be detected.
 
 ### The Energy Levels of Electrons
+**Energy** is the capacity to cause change.
+
+**Potential energy** is the energy matter possesses because of its location or structure.
+
+Matter has a natural tendency to move toward the lowest possible state of potential energy. It takes work to restore its potential energy.
+
+Electrons have potential energy due to their distance from the nucleus. It takes work to move a given electron farther away from the nucleus.
+
+An electron can exist only at certain energy levels, not between them. These are called **electron shells**.
+
+![Energy levels of an electron](img/02/energy-levels-of-an-electron.png)
+
+An electron can move from one shell to another, but only by absorbing or losing an amount of energy equal to the difference in potential energy between the shells. For example, light energy can excite an electron to a higher energy level.
+
+Lost energy is usually released as heat. For example, sunlight excites electrons in the surface, and when they fall back to their original levels, the surface heats up.
+
+### Electron Distribution and Chemical Properties
+
+When atoms come close, only electrons are directly involved in chemical reactions. Nuclei do not come close enough to interact.
+
+The checmical behavior of an atom is determined by the distribution of electrons in its electron shells, and depends moslty on the number of electrons in its *outermost* shell.
+
+Electrons that occupy the outermost shell (**valence shell**) are called **valence electrons**.
+
+Atoms with the same number of electrons in their valence shells exhibit similar chemical behavior.
+
+![Electron Distribution for the first 18 elements](img/02/electron-distibution-for-18-elements.png)
+
+The first shell can only hold 2 electrons. The second and the third, 8.
+
+An atom with a compete valence shell is *inert*: unreactive; it will not interact readily with other atoms.
+
+### Electron Orbitals
+
+
 
 
 ## 2.3. The formation and function of molecules depend on chemical bonding between atoms
