@@ -133,6 +133,89 @@ The reactivity of an atom arises from the presence of unpaired electrons in the 
 
 
 ## 2.3. The formation and function of molecules depend on chemical bonding between atoms
+Atoms with incomplete valence shells can interact with certain other atoms in such a way taht each partner atom completes its valence shell: they either share or transfer valence electrons.
+
+These interactions usually result in atoms staying close together, held by attractions called **chemical bonds**.
+
+### Covalent Bonds
+**Covalent bond**: sharing of a pair of valence electrons by two atoms.
+
+Example: two Hydrogen atoms share 2 electrons. Together they constitute a **molecule** H₂.
+
+![Bond: two hydrogen atoms](img/02/bond-two-hydrogen-atoms.png)
+
+*Molecular formula* simply indicates the number of atoms: H₂, H₂O, O₂.
+
+*Lewis Dot Structure* represents the electrons in the outer shell: `H::H` , `H:O:H` , `O::O`.
+
+*Structural Formula* represents bonds: `H ─ H` , `H ─ O ─ H` , `O ═ O`.
+A **single bond** is when a pair of electrons is shared. A **double bond** is when two pairs are shared.
+
+![H2, O2, H20, CH4](img/02/bond-diagrams-h2-o2-h2o-ch4.png)
+
+**Valence**: the bonding capacity of an atom. 1 for Hydrogen. 2 for Oxygen. 3 for Nitrogen. 4 for Carbon. Phospohorus can have a valence of 3 or 5 depending on the combination of single and double bonds it makes.
+
+#### Polar Covalent Bonds
+Atoms in a molecule attract shared bonding electrons to varying degrees. **Electronegativity** is the attraction of a particular atom for the electrons of a covalent bond. The more, the stronger it pulls shared electrons toward itself.
+
+With pure elements, both atoms pull equally, so it is a **nonpolar covalent bond**.
+
+A **polar covalent bond** forms when atoms pull differently.
+
+![Polar covalent bonds in a water-molecule](img/02/polar-covalent-bonds-in-h2o.png)
+
+Oxygen is one of the most electronegative elements. In H₂O, electrons spend more time near the oxygen nucleus => results in a partial negative charge, indicated by `δ–`.
+
+### Ionic Bonds
+In some cases two atoms are so unequal in their attraction for valence electrons that one is stripped completely. Two oppositely charged are called **Ions**: one **cation** (positive) and one **anion** (negative). They attract each other and form an **ionic bond**.
+
+Here, a lone electron from Na is transferred to Cl, and both atoms complete their valence shells.
+
+![Electron transfer and ionic bonding](img/02/electron-transfer-and-ionic-bond.png)
+
+**Ionic compounds**: compounds formed by ionic bonds.
+
+An ionic compound does not consist of molecules. The formula only indicates the ratio.
+
+![Sodium Chloride crystal](img/02/sodium-chloride-crystal.png)
+
+
+### Weak chemical interactions
+Weaker interactions also contribute to the emergent properties of life. Many large biologival molecules are held in their functional form by weak interactions. Molecules may adhere temporarily by weak interactions. The reversibility of weak interactions may be an advantage: two molecules may interact and then separate.
+
+#### Hydrogen Bonds
+Hydrogen bonds are central to the chemistry of life.
+
+When `H` is covalently bonded to an electronegative atom, `H` has a partial positive charge. This allows it to be attracted to a different electronegative atom nearby: **a hydrogen bond**.
+
+In living cells, `H` is usually attracted to `O` or `N` atoms.
+
+![A hydrogen bond between water and ammonia](img/02/a-hydrogen-bond-between-water-and-ammonia.png)
+
+#### Van der Waals Interactions
+Electrons are not always evenly distributed. At any instant, they may accumulate by chance in one part of a molecule or another. The results are even-changing regions of positive and negative charge that enables all atoms and molecules to stick to one another.
+
+These **van der Waals interactions** are individually weak and occur only when atoms and molecules are very close together. When many such interactions occur simultaneously, they can be powerful.
+
+Gecko's foot max many minuscule hairlike projections which increase its surface area. Van der Waals interactions are so numerous that together they can support the gecko's body weight!
+
+### Molecular Shape and Function
+Molecular shape is crucial: it determines how biological molecules recognize and respond to one another with specificity. They often bind to each other temporarily by forming weak interactions, but only if their shapes are complementary.
+
+Consider opiates: they relieve pain and alter mood by weakly binding to specific receptor molecules on the surfaces of brain cells.
+
+Why would brain cells carry receptors for opiates, compounds that are not made by the body, but by poppy plants?
+
+In 1975, the discovery of endorphines answered this question.
+Endorphines are signalling molecules made by the pituitary gland that bind to the receptors, relieving pain and producing euphoria during times of stress, such as intensive exercise.
+
+Opiates have shapes similar to endorphines and mimic them by binding to endorphin receptors in the brain. That is why opiates and endorphins have similar effects.
+
+This illustrates a match between structure and function.
+
+![Structure of endorphin and heroin](img/02/structure-of-endorphin-and-heroin.png)
+
+![Binding to endorphin receptors](img/02/binding-to-endorphin-receptors.png)
 
 ## 2.4. Chemical reactions make and break chemical bonds
 
