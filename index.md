@@ -1,6 +1,7 @@
 # Campbell Biology. 11th Edition (2017)
 
-* [Wonderful](wonderful.html)
+* [Wonderful (Russian)](wonderful-ru.html)
+* [Wonderful (English)](wonderful-en.html)
 
 ## Biology
 
