@@ -121,7 +121,7 @@ The first shell can only hold 2 electrons. The second and the third, 8.
 An atom with a compete valence shell is *inert*: unreactive; it will not interact readily with other atoms.
 
 ### Electron Orbitals
-We ca nnever know the exact location of an electron. Instead, we describe the sapce in which an electron spends 90% of its time: **orbitals**.
+We can never know the exact location of an electron. Instead, we describe the sapce in which an electron spends 90% of its time: **orbitals**.
 
 The first orbital is a sphere (*1s*). The second has one sphere (*2s*) and three dumbbell-shaped *p*-orbitals (*2p* orbitals).
 
@@ -131,6 +131,8 @@ No more than 2 electrons can occupy a single orbital. That's why max 2 on the fi
 
 The reactivity of an atom arises from the presence of unpaired electrons in the valence shell.
 
+
+A molecule's shape is determined by the positionns of its atoms' valence orbitals. Covalent bonds result in hybrid orbitals, which are responsible for the spaces of complex biological molecules. Molecular shape is usually the bases for the recognition of one biological molecule by another.
 
 ## 2.3. The formation and function of molecules depend on chemical bonding between atoms
 Atoms with incomplete valence shells can interact with certain other atoms in such a way taht each partner atom completes its valence shell: they either share or transfer valence electrons.
@@ -219,3 +221,31 @@ This illustrates a match between structure and function.
 
 ## 2.4. Chemical reactions make and break chemical bonds
 
+**Chemical reaction**: the making and breaking of chemical bonds.
+
+Chemical equation: starting material **reactants** => **products** resulting materials.
+
+Photosynthesis:
+
+![Photosynthesis](img/02/photosynthesis-reaction.png)
+
+Notice that all atoms of the reactants must be accounted for in the products. Matter is rearranged, not created or destroyed.
+
+Your cells then do the reverse reaction:
+
+    C₆H₁₂O₆ + 6 O₂ = 6 CO₂ + 6 H₂O + energy
+
+All chemical reactions are theoretically reversible: `H` + `N` -> ammonia:
+
+    3 H₂ + N₂ ⇌ 2 NH₃
+
+One of the factors affecting the rate of a reactoin is the concentration of reactants: the greater the concentration, the more frequently they collide and react.
+
+The same holds true for products.
+
+Eventually, both reactions occur at the same rate: relative concentrations stop changing, and **chemical equilibrium** occurs.
+
+## Test
+This bombardier beetle is spraying a boiling hot liquid that contains irritating chemicals, used as a defense mechanism against its enemies. The beetle stores two sets of chemicals separately in its glands. While the chemicals are stored apart, they are harmless, but when the beetle mixes them, the chemical reaction causes an explosive discharge.
+
+![Bombardier Beetle](img/02/bombardier-beetle.png)
