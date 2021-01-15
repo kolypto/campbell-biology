@@ -32,6 +32,8 @@ Opiates have shapes similar to endorphines and mimic them by binding to endorphi
 ![Binding to endorphin receptors](chapters/img/02/binding-to-endorphin-receptors.png)
 
 ### Bombardier Beetle
-This bombardier beetle is spraying a boiling hot liquid that contains irritating chemicals, used as a defense mechanism against its enemies. The beetle stores two sets of chemicals separately in its glands. While the chemicals are stored apart, they are harmless, but when the beetle mixes them, the chemical reaction causes an explosive discharge.
+The Bombardier beetle has an interesting defense mechanism: in case of danger, it sprays a  boiling hot liquid that contains irritating chemicals.
+
+The beetle stores two sets of chemicals separately in its glands. While the chemicals are stored apart, they are harmless. In case of danger, the beetle mixes the chemicals in the reaction chamber. The chemical reaction produces heat, which raises the temperature of the liquid to 100°C. It boils, and shoots from the beetle's abdomen. The tip of the abdomen can move and steer the explosive discharge towards the enemy.
 
 ![Bombardier Beetle](chapters/img/02/bombardier-beetle.png)
