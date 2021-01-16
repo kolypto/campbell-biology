@@ -56,6 +56,8 @@ Water's high specific heat moderates air temperatures in coastal areas. A large 
 
 Also, because organisms are made primarily of water, they are better able to resist changes in their own temperature.
 
+In argicultural areas, when overnight freeze is predicted, farmers spray water on crops to protect the plants. Water releases significant heat and may protect the plant cells from damage.
+
 #### Evaporative Cooling
 Molecules can depart the liquid and enter the air as a gas. Vaporization happens even at low temperatures with the speediest molecules escaping into the air.
 
@@ -117,4 +119,90 @@ The practical advantage of measuring a quantity of chemicals in moles is that a 
 
 **Molarity**: the number of moles of solute per liter of solution -- is the unit of concentration.
 
+
+
 ## 3.3. Acidic and basic conditions affect living organisms
+Occasionally, a hydrogen atom participating in a hydrogen bond between two water molecules shifts from one molecule to the other. It leaves its electron behind, so what's actually transferred is a single proton: a *hydrogen ion* `H⁺`.
+
+The result is a **hydroxide ion** `OH⁻` (which has a change of `1–`) and a **hydronium ion** `H₃O⁺`.
+
+![Dissociation of water molecules](img/03/dissociation-of-water-molecules.png)
+
+By concention, `H⁺` is used to represent the hydronium ion.
+
+At equilibrium point, the concentration of water molecules greatly exceeds the concentrations of `H⁺` and `OH⁻`. In pure water, only one water molecule in every 554 million is dissociated. The concentration of `H⁺` and `OH⁻` is therefore `10⁻⁷M` (at 25℃).
+
+Even though the dissociation is statistically rare, it is exceedingly important in the chemistry of life. `H⁺` and `OH⁻` are very reactive. Changes in their concentrations can drastically affect a cell's proteins and other complex molecules.
+
+In pure water, the concentrations of `H⁺` and `OH⁻` are equal, but adding acids and bases disrupts this balance.
+
+Biologists call it *the pH scale* to describe how acidic or basic a solution is.
+
+### Acids and Bases
+When **acids** dissolve in water, they donate additional `H⁺` to the solution. For example:
+
+     HCl → H⁺ + Cl⁻
+
+the result is an *acidic solution*: one having more `H⁺` than `OH⁻`.
+
+A substance that reduces the `H⁺` concentration is called a **base**.
+
+Some bases reduce the `H⁺` concentration by accepting it. Like ammonia:
+
+    NH₃ + H⁺ ⇌ NH₄⁺
+
+other bases reduce the `H⁺` concentration by contributing `OH⁻`. Sodium hydroxide:
+
+    NaOH → Na⁺ + OH⁻
+
+Notice the single arrows. Hydrochloric acid (`HCl`) is a strong acid, and sodium hydroxide (`NaOH`) is a strong base. Ammonia is a weak base.
+
+Weak acids are acids that reversibly release and accept back hydrogen ions. Carbonic acid:
+
+![Carbonic acid reaction](img/03/carbonic-acid-reaction.png)
+
+the equilibrium so favors the leftward reaction that only 1% of the molecules are dissociated at any particular time.
+Still, that is enough to shift the balance of `H⁺` and `OH⁻` from neutraily.
+
+### The pH Scale
+At 25℃, the neutral solution has `[H⁺] = 10⁻⁷M` and `[OH⁻] = 10⁻⁷M` molar concentration.
+
+If enough acid is added to a solution to increase `[H⁺]` to `10⁻⁵M`, then `[OH⁻]` will decline to `10⁻⁹M`. Note that the sum is still `-14`.
+
+This constant relationship can be written as:
+
+    [H⁺] [OH⁻] = 10⁻¹⁴
+
+The pH scale compresses the range of `H⁺` and `OH⁻` by employing logarithms: `pH = -log [H⁺]`.
+
+![ph scale](img/03/ph-scale.png)
+
+(!) Notice that pH *decreases* as `H⁺` concentration *increases*. A large pH is a strong base. A small pH is a strong acid.
+
+### Buffers
+The internal pH of most living cells is close to 7 (neutral). Even a slight change in pH can be harmful because the chemical processes of the cell are very sensitive to the concentrations of `H⁺` and `OH⁻`.
+
+The pH of human blood is ~7.4, which is slightly basic. A person cannot survive for more than a few minutes if it drops to 7 or rises to 7.8.
+
+A chemical system exists in the blood that maintains a stable pH. If 0.01 mol of strong acid is added to a liter of pure water, the pH drops from 7.0 to 2.0. If the same amount of acid is added to a liter of blood, however, the pH decrease is only from 7.4 to 7.3.
+
+A **buffer** is a substance that minimizes changes in the concentrations of `H⁺` and `OH⁻` in a solution. It accepts `H⁺` ions when they are in excess, and donates them when they have been depleted. Most buffer solutions contain a weak acid and its corresponding base, which combine reversibly with hydrogen ions.
+
+Carbonic acid is one such buffer. The chemical equilibrium between carbonic acid and bicarbonate acts as a pH regulator.
+
+![Carbonic acid](img/03/buffer-carbonic-acid.png)
+
+### Acidification: A Threat to Our Oceans
+The burning of fossil fuels releases CO₂. About 25% of it is absorbed by the oceans. When CO₂ dissolves in seawater, it reacts with water to form carbonic acid, which lowers ocean pH: **ocean acidification**.
+
+Based on CO₂ levels in air bubbles trapped in ice, scientists calculated that the pH has increased by 0.1 in the past 420 000 years. Coral reefs are havens for a great diversity of marine life, and reefs are sensitive to such changes.
+
+### Pactice.
+HCl is a strong acid that dissociates in water.
+
+    HCl → H⁺ + Cl⁻
+
+What is the pH of 0.01M HCl?
+
+`[H⁺] = 0.01M = 10⁻²M`, so pH=2.
+
