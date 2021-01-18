@@ -79,4 +79,33 @@ Wiki: a **chiral compound** is a molecule that cannot be superposed on its mirro
 
 ## 4.3. A few chemical groups are key to molecular function
 
+A number of chemical groups can replace an `H` in a hydrocarbon molecule: they may participate in chemical reactions or may contribute to function by their effects on molecular shape. They help give each molecule its unique properties.
+
+Consider the differences between estradiol (a type of estrogen) and testosterone. These compounds are female and male sex hormones, respectively, in humans an other vertebrates. Both are steroids: four fused carbon rings. They differ only in chemical groups attached to the rings.
+
+![Estradiol and Testosterone](img/04/estradiol-and-testosterone.png)
+
+The different actions of these two molecules on many targets throughout the body are the basis of gender, producing the contrasting features of male and female vertebrates.
+
+Chemical groups directly involved in chemical reactions are known as **functional groups**. Each has certain properties, such as shape and charge, that cause it to participate in chemical reactions in a characteristic way.
+
+![Functional Groups](img/04/functional-groups.png)
+
+* The first six can be reactive: all but the methyl group.
+* Methyl groups is not reactive, but instead often serves as a recognizable tag.
+* Among the first six, all except the *sulfhydryl group* are hydrophilic and thus increase the solubility in water.
+
+# ATP: An Important Source of Energy for Cellular Processes
+
+**Adenosine Triphosphate (ATP)**. Adenosine, attached to a string of 3 phosphate groups.
+
+![](img/04/ATP-molecule.png)
+
+ATP is more accurate to think of as a molecule that stores the potential to react with water. This reaction releases energy that can be used by the cell.
+
+One phosphate group may be split off as a result of a reaction with water. This inorganic phosphate ion, `HOPO₃²⁻`, is often abbreviated as Ⓟᵢ in this book.
+
+Having lost one Ⓟᵢ, ATP becomes *di*phosphate, or ADP.
+
+![](img/04/ATP-reacts-with-water.png)
 
