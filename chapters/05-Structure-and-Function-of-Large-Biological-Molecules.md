@@ -122,8 +122,77 @@ Chitin is embedded into proteins and is leathery and flexible at first, but beco
 ![Chitin](img/05/chitin.png)
 
 ## 5.3. Lipids are a diverse group of hydrophobic molecules
+**Lipids** are not polymers, but macromolecules, assembled by dehydration reaction.
 
+Lipids are all hydrophobic because they consist mostly of hydrocarbon regions that are nonpolar.
 
+Lipids: fats, phospholipids, steroids.
+
+### Fats
+A **fat** is constructed from a glycerol (an alcohol) + fatty acids by a dehydration reaction.
+
+A **fatty acid** has a long carbon skeleton (16-18 carbons long) with a carboxyl group on one end: this makes it an acid.
+
+![](img/05/fat-dehydration-reaction.png)
+
+In making a fat, three fatty acid molecules are joined to a glycerol. The resulting fat is a **triaculglycerol**, or **triglyceride**.
+
+The `C-H` bond is nonpolar => the molecule is hydrophobic. Water molecules bond to one another and exclude the fats. This is why vegetable oil (a liquid fat) separates from water.
+
+![](img/05/fat-molecule.png)
+
+#### Saturated and Unsaturated Fats
+The terms *saturated fats* and *unsaturated fats* are commonly used in the context of nutrition.
+
+In a *saturated fat*, there are no double bonds between carbon atoms. As many hydrogen atoms as possible are bonded to the carbon skeleton. Such a structure is said to be *saturated* with hydrogen.
+
+Most animal fats are saturated. Such molecules can pack together tightly: this is why saturated animal fats, such as lard and butter, are solid at room temperatures.
+
+![](img/05/saturated-fat.png)
+
+An *unsaturated fat* has one or more double bonds, with one fewer hydrogen atom. Nearly In naturally occurring fats, it is nearly always a *cis* double bond, which creates a kink in the hydrocarbon chain. These kinks do not let molecules stay close enough to solidify. The resulting fat is always a liquid.
+
+The fats of plants and fishes are generally unsaturated and are referred to as "oils". They are usually liquid at room temperature.
+
+![](img/05/unsaturated-fat.png)
+
+#### Cis and Trans Fats
+The phrase "hydrogenated vegetable oils" on food labels means that unsaturated fats have been synthetically converted to saturated fats by adding hydrogen, allowing them to solidify. Examples are: peanut butter and margarine.
+
+This process, however, also generates the so-called *trans fats*: unsaturated fats where the double bond is *trans*. It appears that trans fats can contribute to coronary heart disease. This is why foods provide the *trans fat* content information. The US FDA has ordered *trans* fats to be removed from the US food supply by 2018. Some countries, such as Denmark and Switzerland, have already banned *trans* fat in foods.
+
+![](img/05/cis-trans-fat.png)
+
+#### Fat Function
+The major function of fats is energy storage: the hydrocarbon part is just as rich in energy storage as gasoline.
+
+A gram of fat stores more than twice as much energy as a gram of a polysaccharide, such as starch.
+
+Because plants are relatively immobile, they can function with bulky energy storage in the form of starch. Animals, however, must carry their energy stores with them, so there is an advantage to having a more compact reservoir of fuel: fat.
+
+Vegetable oils are generally obtained from seeds, where more compact storage is an asset to the plant, because seeds need to be mobile as well.
+
+Mammals stock their long-term food reserves in adipose cells which swell and shrink as fat is deposited and withdrawn from storage. Adipose tissue also cushions vital organs, and a layer of fat beneath the skin insulates the body. This subcutaneous layer is especially thick in whales, seals, and most other marine mammals, insulating their bodies in cold ocean water.
+
+### Phospholipids
+**Phospholipids** is a fat molecule with only two fatty acids. In place of the third hydroxyl groups is a phosphate group which has a negative electrical charge. Typically, an additional polar molecule is also linked to the phosphate group, such as choline.
+
+The two ends of phospholipids show different behaviors with respect to water: the tails are hydrophobic and are excluded from water, but the head is hydrophilic and has affinity to water. Because of this, when phospholipids are added to water, they self-assemble into a double-layered sheet membrane (called "bilayer") that shields their hydrophobic fatty acid tails from water.
+
+Such phospholipidic bilayer forms a boundary between the cell and its external environment, with hydrophobic tails pointing inward, away from water.
+
+![](img/05/phospholipid.png)
+
+### Steroids
+**Steroids** are lipids characterized by a carbon skeleton consisting of four fused rings, with different chemical groups attached them.
+
+**Cholesterol** is a common component of animal cell membranes. Also other steroids, such as the vertebrate sex hormones, are synthesized from it.
+
+![](img/05/cholesterol.png)
+
+Sex hormones:
+
+![](img/04/estradiol-and-testosterone.png)
 
 ## 5.4. Proteins include a diversity of structures, resulting in a wide range of functions
 

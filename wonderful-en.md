@@ -8,6 +8,8 @@ An amoeba having lunch. It extends pseudopodia to "hug" the victim. This shape-c
 
 [![Amoeba eats paramecia ( Amoeba's lunch )](https://img.youtube.com/vi/mv6Ehv06mXY/0.jpg)](https://youtube.com/watch?v=mv6Ehv06mXY)
 
+
+
 ### Ants Shoot Acid
 
 Wood ants live in colonies. When threatened from above, the ants shoot volleys of formic acid into the air from their abdomens.
@@ -17,6 +19,8 @@ Wood ants live in colonies. When threatened from above, the ants shoot volleys o
 The acid bombards the potential predator, such as a hungry bird.
 
 ![](chapters/img/02/ants-shoot-formic-acid-2.jpg)
+
+
 
 ### How Heroin Works
 Here's how heroin works.
@@ -31,12 +35,15 @@ Opiates have shapes similar to endorphines and mimic them by binding to endorphi
 
 ![Binding to endorphin receptors](chapters/img/02/binding-to-endorphin-receptors.png)
 
+
+
 ### Bombardier Beetle
 The Bombardier beetle has an interesting defense mechanism: in case of danger, it sprays a  boiling hot liquid that contains irritating chemicals.
 
 The beetle stores two sets of chemicals separately in its glands. While the chemicals are stored apart, they are harmless. In case of danger, the beetle mixes the chemicals in the reaction chamber. The chemical reaction produces heat, which raises the temperature of the liquid to 100°C. It boils, and shoots from the beetle's abdomen. The tip of the abdomen can move and steer the explosive discharge towards the enemy.
 
 ![Bombardier Beetle](chapters/img/02/bombardier-beetle.png)
+
 
 
 ### Carbohydrates: How Plants and Animals use Sugar
@@ -51,7 +58,7 @@ Glucose is the most common sugar. It is of central importance to the chemistry o
 Fructose is the sugar that makes fruits and berries sweet.
 Notice that the highlighted oxygen is at a different place. This makes the molecule the so-called "ketone sugar": . The rest of the molecule is same as glucose.
 
-Fructose tastes sweeter than glucose. In the 1970s, a process was developed that converts the glucose in corn syrup into sweeter-stasting fructose. The result is the high-fructose corn syrup, which is also cheaper than table sugar. It's now an ingredient you commonly see in soft drinks and processed food.
+Fructose tastes sweeter than glucose. In the 1970s, a process was developed that converts the glucose in corn syrup into sweeter-tasting fructose. The result is the high-fructose corn syrup, which is also cheaper than table sugar. It's now an ingredient you commonly see in soft drinks and processed food.
 
 ![](chapters/img/05/six-carbon-sugars.png)
 
@@ -96,3 +103,39 @@ Cows can digest cellulose: they have microorganisms living in their gut that doe
 Insects also use sugars as structural material: **chitin** is a structural glucose polymer that arthropods (insects, crustaceans, etc) use to build their exoskeletons. This clever chemical is leathery and flexible at first, but becomes hardened when the proteins are chemically linked to each other.
 
 ![](chapters/img/05/cellulose-glucose.png)
+
+
+### Fats
+Fat molecules consist of a glycerol molecule (colored gray, on the left) with three fatty acids linked to it (colored orange). Glycerol is the base that holds the whole thing together, and the long hydrocarbon tails are the energy storage. In fact, they store as much potential energy as gasoline.
+
+A gram of fat stores more than twice as much energy as a gram of sugar, such as starch. Animals have to carry their energy stores with them, so a compact form of energy storage makes sense. Plants, on the other hand, are immobile, and they are ok with bulky energy storage in the form of starch. But where mobility is an advantage, plants also use fats: in their seeds, which need to be mobile to spread. This is why vegetable oil is extracted from seeds.
+
+These long carbon-hydrogen tails (orange, see image) are non-polar: they have no charged regions, and for this reason the molecule is *hydrophobic*: it repels water, which would only stick to regions of a molecule with partial electric charges.
+
+This is why liquid fats, such as vegetable oils, don't mix with water. They don't bond to one another.
+
+![](chapters/img/05/fat-molecule.png)
+
+You may have heard that there are two types of fats: *saturated fats* and *unsaturated fats*.
+
+The molecule of *saturated fat* has three tails where every carbon is bonded to as many hydrogen atoms as possible. Such a structure is said to be *saturated* with hydrogen (left image).
+
+Most animal fats are saturated. Such molecules are compact and can pack together tightly: this is why saturated animal fats, such as lard and butter, are solid at room temperatures.
+
+An *unsaturated fat* has fewer hydrogen atoms: a carbon forms a double-bond to another carbon instead (right image). The double bond creates a kink in the hydrocarbon chain and the shape is not linear anymore (the double line on the image).
+
+The fats of plants and fishes are generally unsaturated. Because of the "kink", the molecules cannot stay close together to solidify, and such fats remain liquid at room temperature. We call them "oils".
+
+![](chapters/img/05/saturated-and-unsaturated-fat.png)
+
+Lipids are used not only for energy storage. There are structural lipids called **phospholipids**.
+
+A **phospholipid** is a fat molecule with only two fatty acids (two "legs", colored orange), and a phosphorus group attached to its head (gray).
+
+The "legs" have no polar regions, but the phosphate group creates a charged region at the head of the molecule. (yellow)
+
+As a result of this charged region, the molecule's head is hydrophilic (has affinity to water), while the legs are hydrophobic (repel water). When in water, many such molecules tend to "put their heads together" and "hide their legs" away from water. This way, they self-assemble into a double-layered membrane, with heads attracted to water molecules, while the legs turn inward and away from water (see image, d).
+
+Such membranes actually form the surface of the cell: their function is to separate the interior of the cell from the environment. If not for these membranes, cells wouldn't exist.
+
+![](chapters/img/05/phospholipid.png)
