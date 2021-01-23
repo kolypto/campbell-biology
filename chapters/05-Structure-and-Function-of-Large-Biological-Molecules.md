@@ -194,7 +194,129 @@ Sex hormones:
 
 ![](img/04/estradiol-and-testosterone.png)
 
+
+
 ## 5.4. Proteins include a diversity of structures, resulting in a wide range of functions
+
+Proteins account for more than 50% of the dry mass of most cells and they are instrumental in almost everything organisms do. Some proteins speed up chemical reactions, while others play a role in defense, storage, transport, cellular communication, movement, or structural support.
+
+Proteins are responsible for almost everything that happens in your body. Some proteins regulate and speed up chemical reactions (enzymes); others act as a filter on cellular membrane, letting in some molecules and not others.
+
+Most enzymes are proteins: they are chemical agents that speed up specific chemical reactions. They can be used again and again, and can be thought of as workhorses that keep cells running by carrying our the processes of life.
+
+Proteins are the most structurally sophisticated molecules known. They are all constructed from the same set of 20 amino acids which are assembled into a linear structure -- **polypeptide** -- which then folds and coils into a specific three-dimensional shape.
+
+### Amino Acid Monomers
+An **amino acid** has both an amino group and a carboxyl group, with an assymetric "α-carbon" at the center, and a variable group symbolized by R: the "side chain".
+
+![](img/05/amino-acid-structure.png)
+
+This figure shows the 20 amino acids that cells use to build their thousands of proteins.
+
+![](img/05/20-amino-acids.png)
+
+The physical and chemical properties of the side chain determine the unique characteristics of a particular amino acid, thus affecting its functional role in a polypeptide.
+
+Different amino acids have different properties that affect the folding of the protein.
+Some groups are hydrophobic; some are hydrophilic; others are hydrophilic and also basic or acidic. Some have a positive or negative charge.
+
+### Polypeptides (Amino Acid Polymers)
+Two amino acids are joined by a dehydration reaction with a *peptide bond*. Many amino acids are linked into a polypeptide. Note that one end has a free amino group (the N-terminus) while the opposite end has a free carboxyl gruopo (the C-terminus).
+
+The chemical structure of the molecule is determined by the kind and sequence of the side chains, which determine how a polypeptide folds and thus its final shape and chemical characteristics.
+
+### Protein Structure and Function
+A protein is one or more polypeptides precisely twisted, folded, and coiled into a molecule of unique shape. It is the amino acid sequence of each polypeptide that determines what three-dimensional structure the protein will have.
+
+When a ell synthesizes a polypeptide, the chain may fold spontaneously, assuming the functional structure for that protein. This folding is driven and reinforced by the formation of various bonds between parts of the chain, which in turn depends on the sequence of amino acids.
+
+A protein's specific structure determines how it works. In almost every case, the function of a protein depends on its ability to recognize and bind to some other molecule.
+
+In an especially striking example of the marriage of form and function, this figure shows the exact match of shape between an antibody (a protein) and the particular foreign substance a flu virus that the antibody binds to and marks for destruction.
+
+![](img/05/protein-from-flu-virus.png)
+
+### Four Levels of Protein Structure
+Proteins have three level of structure: primary, secondary, and tertiary structure. A fourth level, quaternary structure, arises when a protein consists of seveal polypeptide chains.
+
+#### Primary Structure
+The primary structure: its sequence of amino acids.
+
+![](img/05/primary-structure.png)
+
+Transthyretin is made up of 4 identical polypeptides, each composed of 127 amino acids. It is a globular blood protein that transports vitamin A.
+
+The primary structure is very long. If left to chance, there would be 20<sup>127</sup> different ways of making a polypeptide chain 127 amino acids long. It's a number with 127 digits. But the precise primary structure of a protein is determined byt inherited genetic information.
+
+The primary structure dictates the secondary and tertiary structure.
+
+#### Secondary Structure
+**secondary structure** is the repeated segments of coils and folds. They form because of hydrogen bonds between the repeating constituents of the polypeptide backbone: individually, the bonds are weak, but because they are repeated many times over a relatively long region of the polypeptide chain, they can support a particular shape for that part of the protein.
+
+The secondary structure depends on the arrangement of negatively and positively charged atoms. These charged atoms are attracted to one another at regular intervals along the chain causing parts of the protein to twist of fold back onto itself.
+
+![](img/05/secondary-structure.png)
+
+**α-helix**: a delicate coil held together by hydrogen bonding between every fourth amino acid. Proteins may have one or many α-helix regions.
+
+**β-pleated sheet** is a structure with two or more segments of the polypeptide chain lying side by side, connected by hydrogen bonds.
+
+Some fibrous proteins are dominated by β-pleated sheets. The spider silk protein is stronger than steel strand of the same weight because of the teamwork of so many hydrogen bonds.
+
+### Tertiary Structure
+**Tertiary structure** is the overall shape of a polypeptide resulting from interations between the side chains (R groups) of the various amino acids.
+
+![](img/05/tertiary-structure.png)
+
+One type of interaction is **hydrophobic interaction**: as a polypeptide folds into its functional shape, amoni acids with hydrophobic side chains usually end up in clusers at the core of the protein, out of contact with water. Once they come close together, van der Waals interations help hold them together.
+
+Covalent bonds called **disulfide bridges** may further reinforce the shape of a protein. It is formed by when two cysteine monomers (which have sulfhydrul groups, `— SH`) are brought close together by the folding of the protein. The surfurs bond together, and the disulfide bridge `— S ­— S —` is formed, holding the protein together.
+
+![](img/05/disulfide-bridge.png)
+
+Also, ionic bonds may form between acidic and basic groups.
+
+![](img/05/acidic-basic-ionic-bond.png)
+
+#### Quaternary Structure
+**Quaternary Structure** is the overall protein structure that results from the aggregation of several polypeptide units.
+
+![](img/05/quaternary-structure.png)
+
+For example, collagen, which is a fibrous protein in skin, bone, tendons, ligaments, and other body parts, consists of three identical helical polypeptides intertwined into a larger triple helix, giving the long fibers great strength. Collagen accounts for 40% of the protein in a human body.
+
+![](img/05/collagen.png)
+
+Hemoglobin, the oxygen-binding protein of red blood cells, is another example of globular protein with quarternary structure. It consists of four polypeptide subunits, two of one kind (α) and two of another kind (β). Both consist primarily of α-helical secondary structure. Each subunit has a nonpolypeptide component, called heme, with an iron atom that binds oxygen.
+
+![](img/05/hemoglobin.png)
+
+### Sickle-Cell Disease: A Change in Primary Structure
+Even a slight change in primary structure can affect a protein's shape and ability to function.
+
+For instance, **sickle-cell disease**, an inherited blood disorder, is caused by the substitution of one amino acid (valine) for the normal one (glutamic acid) in hemoglobin. The abnormal hemoglobin molecules tend to aggregate into chains, deforming some of the red blood cells into a sickle shape. These elongated red blood cells clog tiny blood vessels, impeding blood flow. A simple change in protein structure can have devastating effects on protein function.
+
+![](img/05/sickle-cell-hemoglobin.png)
+
+### Denaturation
+The protein's structure depends on the sequence of amino acids, its folding assisted by other proteins. But the structure also depends on the environment: if the pH, salt concentration, temperature, etc, are altered, the weak chemical bonds and interactions within a protein may be destroyed, causing the protein to unravel and lose its shape: a change called **denaturation**. The denaturated protein is biologically inactive.
+
+![](img/05/denaturation.png)
+
+Most proteins become denaturated if they are transferred from an aqueous environment to a nonpolar solvent, such as ether or chloroform: the polypeptide refolds so that its hydrophobic regions face outward toward the solvent.
+
+Other denaturation agents include chemicals that disrupt the hydrogen bonds, ionic bonds, and disulfide bridges that maintain a protein's shape.
+
+Denaturation can also result from excessive heat, which agitates the polypeptide chain enough to overpower the weak interactions that stabilize the structure. The white of an egg becomes opaque during cooking because the denaturated proteins are insoluble and solidify. This also explains why excessively high fevers can be fatal: proteins in the blood tend to denaturate at very high body temperatures.
+
+### Protein Folding in the Cell
+Biochemists know the amino acid sequence for about 65 million proteins, and the three-dimensional shape for almost 35 000. Researchers have tried to predict how a protein folds based on the sequence of its amino acids, but protein-folding is a complicated process, Most proteins probably go through several intermediate structures on their way to a stable shape.
+
+The study is further complicated by a significant number of proteins (20%-30%) that do not have a distinct 3-D structure until they interact with a target molecule. Their flexibility and indefinite structure are important for their function, which may require binding with different targets at different times.
+
+Protein misfolding is a serious problem and the cause of many diseases, such as cystic fibrosis, Alzheimer's, Parkinson's, and mad cow disease: they are associated with an accumulation of misfolded proteins.
+
+
 
 
 
