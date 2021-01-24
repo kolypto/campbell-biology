@@ -139,3 +139,42 @@ As a result of this charged region, the molecule's head is hydrophilic (has affi
 Such membranes actually form the surface of the cell: their function is to separate the interior of the cell from the environment. If not for these membranes, cells wouldn't exist.
 
 ![](chapters/img/05/phospholipid.png)
+
+
+
+### Proteins
+Proteins account for more than 50% of your dry mass, and they are responsible for almost everything that happens in your body.
+
+Some proteins regulate and speed up chemical reactions (enzymes). Others act as a filter on cellular membrane, letting in some molecules and not others. Proteins store and transport useful molecules (hemoglobin transports oxygen). They provide defense against pathogens. They provide the means for signaling and communication. They implement mechanisms that let you move.
+
+Proteins are the most structurally sophisticated molecules known, but they are all constructed from the same set of building blocks: 20 amino acids.
+
+An amino acid is a molecule that has a carbon atom with two functional groups (see picture: the purple rectangles). These groups are able to attach to other amino acids so that they can form long chains.
+
+This is what proteins are: long chains of amino acids, called **polypeptides**.
+
+Every amino acid has these two "connector" groups, but each also has the "side chain" (see picture: the "R" group). This group differs from one amino acid to another and determines its physical and chemical properties. Some attachments give it a positive or a negative charge, making them able to make connections.
+
+![](chapters/img/05/amino-acid-structure.png)
+
+Typical proteins would have hundreds of amino acids, each perfectly in its place. The exact sequence of amino acids is encoded in the DNA. This code is read by molecular machinery which assembles together a chain of amino acids, one at a time. (see picture, left).
+
+This chain has regions which are able to make connections: positively charged regions of the chain are attracted to negatively charged regions. Repeated sequences of charged amino acids make the protein spontaneously fold into helixes, other regions form pleated sheets (see picture, middle). Pleated sheets make additional bonds to one another and thus keep the molecule in shape.
+
+The final shape of the protein is encoded as the sequence of amino acids, but the protein folding process is a complicated multi-step process. For this reason, among the 65 million known proteins, scientists only know the shape of 35 000 of them.
+
+The shape can be quite complicated: see picture. Notice the familiar helixes and sheets that define the shape.
+
+![](chapters/img/05/primary-secondary-tertiary-structure.png)
+
+As a protein is manufactured, it's just a chain of amino acids. It is then precisely twisted, folded, and coiled into a molecule of unique shape.
+
+A protein is like a tool which needs to have a specific shape in order to perform a function. One example we've seen is the receptor that reacts to endorphines because of its specific shape. It wouldn't perform if the shape was different.
+
+An especially striking example of the marriage of form and function is the flu antibody: it's a protein with a particular shape that matches the shape of the flu virus. Because of the perfect match, the antibody binds to the virus and marks it for destruction.
+
+See picture: on the left is the flu antibody protein. On the right is a protein from flu virus which the antibody matches perfectly and is thus able to attach to.
+
+![](chapters/img/05/protein-from-flu-virus.png)
+
+
