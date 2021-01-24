@@ -321,6 +321,25 @@ Protein misfolding is a serious problem and the cause of many diseases, such as 
 
 
 ## 5.5. Nucleic acids store, transmit, and help express hereditary information
+If the primary structure of polypeptides determines a protein's shape, what determines primary structure?
+
+The amino acid sequence of a polypeptide is programmed by a discrete unit of inheritance: a **gene**. Genes consist of DNA.
+
+A **nucleic acid** is a polymer made of **nucleotides**.
+
+### The Roles of Nucleic Acids
+**Deoxyribonucleic acid** (DNA) and **ribonucleic acid** (RNA) enable living organisms o reproduce their complex components from one generation to the next.
+
+In organisms, DNA is inherited from parents. Each chromosome contains one long DNA molecule, usually carrying over several hundred genes. It encodes a program for all the cell's activities.
+
+DNA is unique among molecules in that it provides directions for its own replication. It also directs RNA synthesis, which in turn controls protein synthesis. This process is called **gene expression**.
+
+**Ribisomes** is what synthesizes proteins. In a eukaryotic cell, ribosomes are in the cytoplasm, but DNA resides in the nucleus. A given gene is first copied into a type of RNA, called *messenger RNA* (mRNA), which then provides information to a ribosome, which reads it and produces a polypeptide.
+
+Prokaryotic cells lack nuclei, but still use mRNA to convey a message from the DNA to ribosomes.
+
+![](img/05/gene-expression.png)
+
 
 
 
