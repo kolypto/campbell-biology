@@ -178,3 +178,11 @@ See picture: on the left is the flu antibody protein. On the right is a protein 
 ![](chapters/img/05/protein-from-flu-virus.png)
 
 
+
+
+# Kinesin
+![](img/wonderful/kinesin.gif)
+
+Look at the animation of a motor protein, kinesin: it can travel along microtubules in your cells and carry cargo from one place to another. It knows what to carry, where to go, and when to stop. Millions of them are doing this inside you this very instant. And yes, they can walk!
+
+These are the nano trucks that carry nutrients to places where they are needed, and they would pick up waste and expel it from the cell.

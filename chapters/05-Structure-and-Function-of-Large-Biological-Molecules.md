@@ -340,6 +340,46 @@ Prokaryotic cells lack nuclei, but still use mRNA to convey a message from the D
 
 ![](img/05/gene-expression.png)
 
+### The Components of Nucleic Acid
+Nucleic acids are **polynucleotides** made of **nucleotide** monomers.
+
+A nucleotide is composed of a 5-carbon sugar (a pentose), a nitrogen-containing (nitrous) base, and one to three phosphate groups.
+
+![](img/05/nucleic-acid-structure.png)
+
+The beginning monomer initially has 3 phosphate groups, but two are lost during the polymerization process.
+
+The "functional" portion of a nucleotide is called *a nucleoside*.
+
+There are two families of *nitrogenous bases* (called *bases* because they tend to take up H⁺ from solution).
+
+**Pyrimidine** has one six-membered ring of carbon and nitrogen atoms: cytosine (C), thymine (T), and uracil (U). They differ in the chemical groups attached to the rings.
+
+**Putines** are larger, with a six-membered ring fused to a five-membered ring: adenine (A) and guanine (G).
+
+In DNA, `AGCT` is used. In RNA, `AGCU` is used. In DNA, the sugar is **deoxyribose**; in RNA, it is **ribose**. (The only difference is that deoxyribose lacks an oxygen atom on the second carbon, hence the name *deoxy*ribose).
+
+#### Nucleotide Polymers
+Nucleotides are joined by a phosphodiester linkage: a phosphate group that links the sugars. The repeating pattern is called the *sugar-phosphate backbone*.
+
+One end of the backbone has a phosphate group attached to a 5' carbon (called "the 5' end") and the other end has a hydroxyl group on a 3' atom (called "the 3' end"). It has a directionality: from 5' to 3'.
+
+The information carried by the gene is encoded in its specific sequence of the four DNA bases. The linear order of bases specifies the amino acid sequence of a protein. For example, `5'-AGGTAACTT-3'`.
+
+### The Structure of DNA and RNA molecules
+DNA molecules have two strands that form a **double helix**. The two backbones run in opposite `5' -> 3'` directions from each other in an **antiparallel** arrangement. The sugar-phosphate backbones are on the outside of the helix, and the nitrogenous bases are paired in the interior of the helix. The two strands are held by hydrogen bonds between the paired bases.
+
+In base pairing, only certain bases are compatible: `A` pairs with `T`, `G` pairs with `C`. Reading the sequence along one strand woudl tells us the sequence of bases along the other strand: `5'-AGGTCCG-3'` is necessarily complemeneted by `3'-TCCAGGC-5'` by the base-pairing rules.
+
+The two strands are *complementary*. This property makes it possible to generate two identical copies during cell division.
+
+RNA molecules exist as single strands.
+
+Complementary base pairing can occur, however, between regions of two RNA molecules or even between two stretches in the same RNA molecule. In fact, base pairing within an RNA molecule allows it to take on the particular three-dimentional shape necessary for its function.
+
+Consider tRNA: transfer RNA which brings amino acids to the ribosome during the synthesis of a polypeptide. It has ~80 nucleotides, and it has base pairing of complementary stretches.
+
+![](img/05/transfer-rna.png)
 
 
 
