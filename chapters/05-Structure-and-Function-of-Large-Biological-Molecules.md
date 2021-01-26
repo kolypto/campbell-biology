@@ -381,11 +381,3 @@ Consider tRNA: transfer RNA which brings amino acids to the ribosome during the 
 
 ![](img/05/transfer-rna.png)
 
-
-
-## 5.6. Genomics and proteomics have transformed biological inquiry and applications
-
-
-
-
-
