@@ -33,6 +33,8 @@ Example of Evolutionary adaptation: Camouflage: Can you find a fish?
 Hint: You're looking for [a Pygmy sea horse](https://www.google.com/search?tbm=isch&q=pigmy+sea+horse).
 Can you find it now? Had you been a fish, you would have stayed hungry for the day! :)
 
+![](img/01/Pigmy-sea-horse-clearly.jpg)
+
 ### The Cell: An Organism's Basic Unit of Structure and Function
 
 A cell is the smallest unit of organization that can perform all activities required for life.

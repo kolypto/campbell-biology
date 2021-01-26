@@ -22,6 +22,16 @@ The acid bombards the potential predator, such as a hungry bird.
 
 
 
+### Pigmy Seahorse
+Can you spot a Pygmy Seahorse, the master of camouflage? 😁
+
+![](chapters/img/01/Pigmy-sea-horse.png)
+
+Can you spot it now? :)
+
+![](chapters/img/01/Pigmy-sea-horse-clearly.jpg)
+
+
 ### How Heroin Works
 Here's how heroin works.
 Molecular shape is crucial to the function of any biological molecule. The shape determines how they recognize and respond to one another with specificity. They often bind to each other temporarily by forming weak interactions, such as the attraction of charged regions (positive to negative), but only if the shapes of those molecules are complementary.
