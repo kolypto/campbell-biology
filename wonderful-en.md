@@ -136,6 +136,8 @@ An *unsaturated fat* has fewer hydrogen atoms: a carbon forms a double-bond to a
 
 The fats of plants and fishes are generally unsaturated. Because of the "kink", the molecules cannot stay close together to solidify, and such fats remain liquid at room temperature. We call them "oils".
 
+Margarine used to be oil, but it went through the process of adding hydrogen, the so-called *hydrogenation*, and most fats became saturated, and margarine can now solidify. So margarine is ex-vegetable oil that looks like butter :)
+
 ![](chapters/img/05/saturated-and-unsaturated-fat.png)
 
 Lipids are used not only for energy storage. There are structural lipids called **phospholipids**.

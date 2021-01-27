@@ -15,6 +15,8 @@
 * [5. The Structure and Function of Large Biological Molecules](chapters/05-Structure-and-Function-of-Large-Biological-Molecules.html)
 
 ## Unit 2. The Cell
+* [6. A Tour of the Cell](chapters/06-Tour-of-the-Cell.html)
+
 ## Unit 3. Genetics
 ## Unit 4. Mechanisms of Evolution
 ## Unit 5. The Evolutionary History of Biological Diversity

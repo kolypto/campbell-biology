@@ -6,5 +6,6 @@
         "daltons",
         "splitted"
     ],
-    "cSpell.language": ",ru"
+    "cSpell.language": "en,ru",
+    "cSpell.diagnosticLevel": "Hint"
 }
