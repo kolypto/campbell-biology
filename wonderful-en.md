@@ -192,9 +192,34 @@ See picture: on the left is the flu antibody protein. On the right is a protein 
 
 
 
-# Kinesin
+### Kinesin
 ![](img/wonderful/kinesin.gif)
 
 Look at the animation of a motor protein, kinesin: it can travel along microtubules in your cells and carry cargo from one place to another. It knows what to carry, where to go, and when to stop. Millions of them are doing this inside you this very instant. And yes, they can walk!
 
 These are the nano trucks that carry nutrients to places where they are needed, and they would pick up waste and expel it from the cell.
+
+
+
+
+### Zombie Fungus
+FIX TEXT and translate
+
+![](img/wonderful/zombie-fungus-1.png)
+This weevil, infected with ophiocordyceps curculionum becomes a launchpad for the parasitoid fungus to self-propagate.
+There are over 400 subspecies of this fungus (ophiocordyceps unilateralis) and each one targets a specific species of insect/anthropod.
+Once it finds its preferred host, the newly released spores make short work of penetrating the exoskeleton and seizing control of the muscles of these hapless invertebrates.
+It was previously believed that the fungus infected and took over the brain of the insect, which gave the fungus its nickname: the zombie fungus.
+This was recently proven to be wrong.
+With control of the motor functions now fully assumed by the malicious mycelium, the infected will seek out an elevated spot. When it finds one, the insect (in this case, Mr weevil here) will secure themselves to it and then slowly die.
+While he waits, the fungus will feed off of the innards of the host until ready to fruit. Those large alien-looking branches jutting out of the weevil are the result of this fruiting and the spores are contained within the enlarged ends.
+When these "fruit" rupture, the cordyceps spores will seek out and infect more weevils and do the same to them.
+
+![](img/wonderful/zombie-fungus-2.png)
+
+The spores attach to their exoskeletons and eventually break through using mechanical pressure and enzymes. After the fungus enters the ant it propagates, and fungal cells are found beside the host's brain. Yeast stages of the fungus spread in the ant's body and presumably produce compounds that affect the ant's behavior. An infected ant exhibits irregularly timed full-body convulsions that dislodge it from its canopy nest to the forest floor.
+The ant then climbs up the stem of a plant and uses its mandibles with abnormal force to secure itself to a leaf vein. The ants generally clamp to a leaf's vein at a height of 26 cm above the forest floor. This is followed by the fungus controlling the locking of its jaw: the ant bites the leaf so tightly that the ant is prevented from falling as it dies hanging upside down.
+Once the mandibles of the ant are secured to the leaf vein, atrophy quickly sets in, destroying the muscle fibers. The ant is no longer able to control the muscles of the mandible and remains fixed in place, hanging upside-down on the leaf. This lockjaw trait is popularly known as the death grip and is essential in the fungus's lifecycle.
+The fungus then kills the ant and continues to grow, invading more soft tissues.
+The alteration of the host's behavior happens through secretion of various metabolites beside the host's brain and muscle. Studies have shown that the fungus secretes different substances according to the host tissue it encounters and whether they are live or dead.
+This fungus is able to destroy entire ant colonies, forming ant graveyards of 20-30 meters in range.
