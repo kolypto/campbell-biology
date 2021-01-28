@@ -1,4 +1,6 @@
-### Amoeba
+# Wonderful Biology
+
+# Amoeba
 
 A macro picture of an Amoeba. This is a single-cell organism and looks like it has a universe inside of it!
 
@@ -10,7 +12,7 @@ An amoeba having lunch. It extends pseudopodia to "hug" the victim. This shape-c
 
 
 
-### Ants Shoot Acid
+# Ants Shoot Acid
 
 Wood ants live in colonies. When threatened from above, the ants shoot volleys of formic acid into the air from their abdomens.
 
@@ -22,7 +24,7 @@ The acid bombards the potential predator, such as a hungry bird.
 
 
 
-### Pigmy Seahorse
+# Pigmy Seahorse
 Can you spot a Pygmy Seahorse, the master of camouflage? 😁
 
 ![](chapters/img/01/Pigmy-sea-horse.png)
@@ -32,7 +34,7 @@ Can you spot it now? :)
 ![](chapters/img/01/Pigmy-sea-horse-clearly.jpg)
 
 
-### How Heroin Works
+# How Heroin Works
 Here's how heroin works.
 Molecular shape is crucial to the function of any biological molecule. The shape determines how they recognize and respond to one another with specificity. They often bind to each other temporarily by forming weak interactions, such as the attraction of charged regions (positive to negative), but only if the shapes of those molecules are complementary.
 Consider opiates: they relieve pain and alter mood by weakly binding to specific receptor molecules on the surfaces of brain cells.
@@ -47,7 +49,7 @@ Opiates have shapes similar to endorphines and mimic them by binding to endorphi
 
 
 
-### Bombardier Beetle
+# Bombardier Beetle
 The Bombardier beetle has an interesting defense mechanism: in case of danger, it sprays a  boiling hot liquid that contains irritating chemicals.
 
 The beetle stores two sets of chemicals separately in its glands. While the chemicals are stored apart, they are harmless. In case of danger, the beetle mixes the chemicals in the reaction chamber. The chemical reaction produces heat, which raises the temperature of the liquid to 100°C. It boils, and shoots from the beetle's abdomen. The tip of the abdomen can move and steer the explosive discharge towards the enemy.
@@ -56,7 +58,7 @@ The beetle stores two sets of chemicals separately in its glands. While the chem
 
 
 
-### Carbohydrates: How Plants and Animals use Sugar
+# Carbohydrates: How Plants and Animals use Sugar
 The food that we eat, among other things contains carbohydrates. Carbohydrates is a class of molecules that includes sugars and composite sugars, *polymers*.
 
 First of all, they are called *carbohydrates* because sugars primarily consist of Carbon atoms (the chain of carbons in the middle, called "carbon skeleton") and hydrogen atoms. Carbon-Hydrogen. Carbo-hydrates.
@@ -115,7 +117,7 @@ Insects also use sugars as structural material: **chitin** is a structural gluco
 ![](chapters/img/05/cellulose-glucose.png)
 
 
-### Fats
+# Fats
 Fat molecules consist of a glycerol molecule (colored gray, on the left) with three fatty acids linked to it (colored orange). Glycerol is the base that holds the whole thing together, and the long hydrocarbon tails are the energy storage. In fact, they store as much potential energy as gasoline.
 
 A gram of fat stores more than twice as much energy as a gram of sugar, such as starch. Animals have to carry their energy stores with them, so a compact form of energy storage makes sense. Plants, on the other hand, are immobile, and they are ok with bulky energy storage in the form of starch. But where mobility is an advantage, plants also use fats: in their seeds, which need to be mobile to spread. This is why vegetable oil is extracted from seeds.
@@ -154,7 +156,7 @@ Such membranes actually form the surface of the cell: their function is to separ
 
 
 
-### Proteins
+# Proteins
 Proteins account for more than 50% of your dry mass, and they are responsible for almost everything that happens in your body.
 
 Some proteins regulate and speed up chemical reactions (enzymes). Others act as a filter on cellular membrane, letting in some molecules and not others. Proteins store and transport useful molecules (hemoglobin transports oxygen). They provide defense against pathogens. They provide the means for signaling and communication. They implement mechanisms that let you move.
@@ -192,7 +194,7 @@ See picture: on the left is the flu antibody protein. On the right is a protein 
 
 
 
-### Kinesin
+# Kinesin
 ![](img/wonderful/kinesin.gif)
 
 Look at the animation of a motor protein, kinesin: it can travel along microtubules in your cells and carry cargo from one place to another. It knows what to carry, where to go, and when to stop. Millions of them are doing this inside you this very instant. And yes, they can walk!
@@ -202,7 +204,7 @@ These are the nano trucks that carry nutrients to places where they are needed, 
 
 
 
-### Zombie Fungus
+# Zombie Fungus
 FIX TEXT and translate
 
 ![](img/wonderful/zombie-fungus-1.png)
