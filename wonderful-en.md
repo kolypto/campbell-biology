@@ -117,6 +117,29 @@ Insects also use sugars as structural material: **chitin** is a structural gluco
 ![](chapters/img/05/cellulose-glucose.png)
 
 
+
+# The Carbon Cycle
+We all heard about photosynthesis in school: plants absorb carbon dioxide and release oxygen. Thanks to this process, we have something to breathe with.
+
+But here's a question. Why do plants have photosynthesis? Why do they absorb carbon dioxide? What's in it for them?
+
+Let's have a look at the molecular formulas. Plants absorb carbon dioxide, that's `CO₂`. And what they release is oxygen, that's `O₂`. In this process, the plant keeps the carbon: `C`.
+
+This carbon is used by the plant to produce carbohydrates: glucose, which, as we've seen, consists of `C`, `O` and `H` atoms.
+
+This glucose is put together using the energy that comes from the sun: that is, the plant stores up solar energy packed into glucose molecules. Extra oxygen is released into the atmosphere. The plant just doesn't need so much oxygen.
+
+Then an animal finds the plant, eats it, and gets the energy in the form of glucose. This is the energy that lets the animal live, move, and carry out cellular processes.
+
+Oxygen is needed to use this glucose fuel. The animal inhales `O₂` and uses it in chemical reactions that release the energy from glucose. During this process, oxygen binds with a carbon, and `CO₂` is produced, which is then exhaled.
+
+Since the energy that we get from the carbohydrates is solar energy, one can say that the heat and the motion of our body is stellar energy :)
+
+The `CO₂` from the animal is then absorbed by other plants and converted to glucose once again. This is the so-called "carbon cycle".
+
+![](img/wonderful/glucose-cycle-en.png)
+
+
 # Fats
 Fat molecules consist of a glycerol molecule (colored gray, on the left) with three fatty acids linked to it (colored orange). Glycerol is the base that holds the whole thing together, and the long hydrocarbon tails are the energy storage. In fact, they store as much potential energy as gasoline.
 
