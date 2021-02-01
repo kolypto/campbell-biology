@@ -274,53 +274,58 @@ This fungus is able to destroy entire ant colonies, forming ant graveyards of 20
 
 
 
-
 ### Plasma Membrane
 
-All living cells are surrounded by membranes. We normally think of it as a barrier that separates the cell from the external environment. But it is much more than that.
+Every living cell is surrounded by a membrane. We normally think of a membrane as a barrier that separates the cell from the external environment. But it is much more than that.
 
-The cell requires oxygen and nutrients in order to function, so the membrane needs to allow them in. But it shouldn't let just everything in. At the same time, some waste products are generated in the cell, and those should be removed. But it shouldn't dump all the contents.
+The cell requires oxygen and nutrients in order to function, so the membrane needs to allow them in. But it shouldn't let just everything in. At the same time, some waste products are generated in the cell, and these should be removed. But the membrane shouldn't just let everything out.
 
 Membranes are selectively permeable. They would let some substances in one direction, and other substances in another direction.
 
-Some substances can slowly ooze through the membrane, such as glucose, amino acids, fatty acids, etc. This is passive transport. But there is also active transport, provided by proteins embedded into the membrane: they act as transporters that pump specific molecules in or out, such as `K`, `Na`, `Cl`, `H₂O`, and others. Some transporters function all the time, others will only start pumping on cue.
+Some substances can slowly ooze through the membrane, such as glucose, amino acids, fatty acids, etc. This is passive transport. But there is also active transport, provided by proteins embedded into the membrane: they act as transporter mechanisms that pump specific molecules in and out: `K`, `Na`, `Cl`, `H₂O`, and others. Some transporters function all the time, others will only start pumping on cue.
 
 The membrane may also enclose enzymes: molecules that facilitate specific chemical reactions. For instance, your intestines have digestive enzymes embedded into their membranes that break down complex sugars into simple ones and complex proteins into amino acids. Those broken down components can then be ingested as nutrients.
 
-Cellular membrane also has carbohydrate side chains attached to it: they form distinctive cellular markers, sort of like molecular ID badges, that allow cells to recognize each other. These markers, for instance, allow immune cells to differentiate between body cells, which they shouldn’t attack, and foreign cells or tissues, which they should.
+Cellular membrane also has carbohydrate side chains attached to it: they form distinctive cellular markers, sort of like molecular ID badges, that allow cells to recognize each other. These markers, for instance, allow immune cells to identify body cells, which they shouldn’t attack, and tell them from foreign cells or tissues, which they should.
 
 So, the membrane is not just a cell's bag. It is the cell's ID. It acts as a selective pump. It facilitates chemical processes. And it controls which substances go in and out.
 
+That's one smart bag.
+
 ![](chapters/img/06/plasma-membrane-ru.png)
 
-Some sci-fi authors wondered whether a large sentient single-cell being is possible. Turns out, the membrane is one of the issues that makes it impossible.
+Some sci-fi authors wondered whether a large sentient single-cell being is possible. Turns out, the membrane is one of the issues that makes such a being impossible.
 
 The problem is its capacity to support cellular metabolism. Because the plasma membrane is a selective barrier, each square micrometer of membrane can transport only a limited amount of a particular substance per second, so the ratio of surface area to volume is critical.
 
-As a cell increases in size, its surface area grows slower than its volume. At some point, the membrane just doesn't have enough area to support metabolism. (If we dive into math, cell's volume is proportional to its `r³`, whereas the surface area is proportional to `r²`, so it lags behind).
+As a cell increases in size, its surface area grows slower than its volume. At some point, the membrane just doesn't have enough area to support metabolism. The cell becomes just too big, and the membrane cannot do enough. (If we dive into math, cell's volume is proportional to its `r³`, whereas the surface area is proportional to `r²`, so it lags behind).
 
 This explains why cells are microscopic: because of the need for a surface area large enough to accommodate the volume.
 
-There are geometrical tricks that help cells increase their surface area. Cells can be elongated. Some cells have *microvilli*: thin projections that have a lot of surface.
+There are geometrical tricks that help cells increase their surface area. Some cells are elongated, such as nerve cells. Other cells have *microvilli*: thin projections that have a lot of surface.
 
-Let's consider intestinal cells, for instance: they need to exchange a lot of material, which requires surface ares. Small intestines have folds; then folds have villi, which look like small hairs on the surface. In fact, each "hair" has blood vessels and lots of epithelial cells, which further have microvilli. Every possible trick is used to increase the surface area and make sure that the food that you is digested and absorbed efficiently.
+Let's consider intestinal cells, for instance: they need to exchange a lot of material, and this process requires surface area. Small intestines have folds; then folds have villi, which look like small hairs on the surface. In fact, each "hair" has blood vessels and lots of epithelial cells. These *villi* are composed of cells, and those cells also have *microvilli*.
+
+Every possible trick is used to increase the surface area and make sure that the food that you is digested and absorbed efficiently.
 
 ![](chapters/img/06/intertestinal-microvilli-ru.png)
 
-The outer membrane is actually not the only membrane a cell.
+The outer membrane is actually not the only membrate a cell has.
 
-In addition to the plasma membrane, plant and animal cells have extensive, elaborately arranged internal membranes that divide the cell into compartments: the organelles. The compartments provide different local environments that support specific metabolic functions, so incompatible processes can occur simultaneously in a single cell.
+In addition to the plasma membrane, plant and animal cells have extensive, elaborately arranged internal membranes that divide the cell into compartments: **the organelles**. The compartments provide different local environments that support specific metabolic functions, so incompatible checmical processes can occur simultaneously in a single cell.
 
 All membranes participate directly in the cell's metabolism because many enzymes are built right into the membranes. Each type of membrane has a unique composition, suited to its specific functions.
 
-For example, enzymes embedded into the membranes of mitochondria function in cellular respiration: they process glucose and combine it with oxygen that you've inhaled to produce ATP: the energy source the cell can use.
+For example, enzymes embedded into the membranes of mitochondria function in cellular respiration: they use the oxygen you inhale and combine it with glucose. The result of this reaction is ATP: the energy carrier in the cell. Another product is `CO₂`: this is what you exhale.
 
-The nucleus membrane has pores that let copies of DNA out.
+Then there is the nucleus: the central part of the cell where the DNA is (see picture: the violet structure). It is also surrounded by a membrane. This membrane has pores: intricate structures composed of at least 456 individual proteins. It can recognize large molecules by specific signal sequences and then actively transport them through the pore. It's like a selective gateway mechanism: it regulates the entry and the exit of proteins, RNAs, and other molecules. Its performance is incredible: one pore can actively conduct 1000 translocations per second.
 
-The endoplasmic reticulum (see image) has areas where membrane encloses ribosomes: little factories that read DNA code and produce proteins.
+The endoplasmic reticulum (see image: the blue structure) has areas where ribosomes are built into membranes. As a copy of some DNA gene (called *RNA*) is made in the nucleus, it leaves the nucleus through the pore and attaches itself to a ribosome. The ribosome is a molecular factory that reads the DNA code like tape: intruction by instruction, the code is executed, and a protein is assembled from the amino acid sequence specified in that code.
 
-Once proteins are produced, this membrane can also form vesicles around them: "bubbles" that enclose proteins and act as shipping containers. Some vesicles would approach the golgi apparatus (see image) where the membrane of the vesicle fuses with it, releaseing proteins. They would undergo further processing, then some of them would leave the cell in another vesicle (see this greenish bubble on the image?).
+Once proteins are produced, they can leave the reticulumn, and it has an interesting function for their transportation. The reticulum's membrane can form vesicles: "bubbles" that enclose proteins and act as shipping containers. Some vesicles would go to the golgi apparatus (see image, green structure) where the membrane of the vesicle fuses with it, releaseing proteins. They would undergo further processing, then some of them would leave the cell in another vesicle (see this greenish bubble on the image?).
 
 Remember the motor protein we've seen some time ago? Remember it was carrying a bubble? That's the vesicle: a shipping container for biological molecules. It's all membrane.
+
+This bubble is picked up by a motor protein and carried to a proper place. For instance, to the plasma membrane, where the bubble fuses with it, and leaves the cell. This is how secretion works.
 
 ![](chapters/img/06/structure-cell-small-ru.png)
