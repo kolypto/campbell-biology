@@ -97,8 +97,58 @@ Inside nucleus there is **nucleolus**: a dense area where *ribosomal RNA* (rRNA)
 
 The nucleus also directs protein synthesis by synthesizing *messenger RNA* (mRNA).
 
+![](img/06/the-nucleus-and-its-envelope.png)
+
+### Ribosomes: Protein Factories
+
+Ribosomes are complexes made of ribosomal RNAs and proteins. They carry out protein synthesis.
+
+Cells with high rates of protein synthesis have large number of ribosomes and prominent nucleoli, which makes sense. Human pancreas cell is an example: it has a few million ribosomes.
+
+Ribosomes reside in two regions. *Free ribosomes* are suspended in the cytosol: proteins produced by them mostly function within the cytosol. *Bound ribosomes* are attached to the outside of the endoplasmic reticulum or nuclear envelope: they generally make proteins that are destined for insertion into membranes, or for secretion.
+
+![](img/06/ribosomes.png)
+
+
 
 ## 6.4. The endomembrane system regulates protein traffic and performs metabolic functions
+The **endomembrane system** includes all organelles: all internal membranes. The system does: protein synthesis, transport of proteins, metabolism and movement of lipids, detoxification of poisons.
+
+These membranes relate either by physical continuity (contact) or by the formation of **vesicles**: sacs made of membrane.
+
+The composition of these membranes is not fixed, but modified during the membrane's life.
+
+### The Endoplasmic Reticulum: Biosynthesis Factory
+
+The **endoplasmic reticulum (ER)** is a network of membranous tubules and sacs called cisternae (lat. *cisterna*, a reservoir). The whole of the internal space is called *ER lumen* (cavity). It is continuous with the nuclear envelope.
+
+Two distinct regions: **smooth ER**, and **rough ER**, which is studded with ribosomes on the outer surface and thus appears rough through the electron microscope.
+
+![](img/06/endoplasmic-reticulum.png)
+
+#### Functions of Smooth ER
+Functions: synthesis of lipids and steroids, metabolism of carbohydrates, detoxification of drugs and poisons, storage of calcium ions. This is done by enzymes: they synthesize non-protein molecules.
+
+Cells that secrete steroid hormones (sex hormones, adrenaline, etc) are rich in smooth ER.
+
+Other enzymes help detoxify drugs: this usually involves adding `— OH` hydroxyl groups, making molecules more water-soluble and easier to flush from the body. The sedative phenobarbital and other barbiturates are examples of drugs metabolized in this manner by smooth ER in liver cells.
+
+Barbiturates, alcohol, and many other drugs induce the proliferation of smooth ER and its associated detoxifying enzymes, thus increasing the rate of detoxification. This, in turn, increases tolerance to drugs.
+
+The smooth ER also pumps calcium ions from the cytosol into the ER lumen, and when a muscle cell is stimulated by a nerve impulse, calcium ions rush back across the ER membrane into the cytosol and trigger contraction of the muscle cell. In other cell types, release of calcium ions from the smooth ER triggers different responses, such as secretion.
+
+#### Functions of Rough ER
+Many cells secrete proteins that are produced by ribosomes attached to rough ER. For instance, insulin is produced by pancreatic cells.
+
+The rough ER membrane has pore complexes: as a polypeptide chain grows, it is threaded *into* the ER lumen where is is kept separate from the cytosol. The new protein folds into its functional shape.
+
+Most secretory proteins are **glycoproteins**: they have carbohydrates covalently bonded to them. These are attached to the proteins by enzymes built into the ER membrane.
+
+Secretory proteins depart from the ER wrapped in the membranes of vesicles that bud from a specialized region: *transitional ER*.
+
+Rough ER is also a membrane factory for the cell: the membrane grows in place, proteins are inserted into the membrane, and portions of it are transferred in the form of transport vesicles to other components of the endomembrane system.
+
+### The Golgi Apparatus: Shipping and Receiving Center
 
 
 
