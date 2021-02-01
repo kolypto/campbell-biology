@@ -296,9 +296,9 @@ All membranes participate directly in the cell's metabolism because many enzymes
 
 For example, enzymes embedded into the membranes of mitochondria function in cellular respiration: they process glucose and combine it with oxygen that you've inhaled to produce ATP: the energy source the cell can use.
 
-The nucleus membrane has pores that let copies of DNA out.
+The nucleus membrane has pores: intricate structures composed of at least 456 individual proteins. It can recognize large molecules by specific signal sequences and then actively transport them through the pore. It regulates the entry and the exit of proteins, RNAs, and other molecules, and can actively conduct 1000 translocations per per second.
 
-The endoplasmic reticulum (see image) has areas where membrane encloses ribosomes: little factories that read DNA code and produce proteins.
+The endoplasmic reticulum (see image) has areas where membrane encloses ribosomes: little factories that read DNA code and produce proteins. As a copy of the DNA (called RNA) leaves the nucleus, it enters the endoplasmic reticulum and finds a ribosome. There, the DNA code is read, instruction by instruction, and a protein is assembled according to this code.
 
 Once proteins are produced, this membrane can also form vesicles around them: "bubbles" that enclose proteins and act as shipping containers. Some vesicles would approach the golgi apparatus (see image) where the membrane of the vesicle fuses with it, releaseing proteins. They would undergo further processing, then some of them would leave the cell in another vesicle (see this greenish bubble on the image?).
 

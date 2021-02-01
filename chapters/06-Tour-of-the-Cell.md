@@ -81,7 +81,21 @@ For example, enzymes embedded into the membranes of mitochondria function in cel
 
 
 ## 6.3. The eukaryotic cell's genetic instructions are housed in the nucleus and carried out by the ribosomes
+The **nuclear envelope** encloses the nucleus, separating its contents from the cytoplasm. It's a *double* membrane, with 20-40 nm distance between them.
 
+The inner side of the envelope is lined by **nuclear lamina**: protein filaments that maintain the shape of the nucleus.
+
+The double membrane is perforated by pore structures, each containing at least 456 individual proteins, called *pore complex*, that regulate the entry and exit of proteins, RNAs, and other molecules. It can actively conduct 1000 translocations per complex per second: large molecules may be recognized by specific signal sequences and then be actively transported through the pore.
+
+![](img/06/nuclear-pore.png)
+
+There is also a *nuclear matrix*: a framework of protein fibers extending throughout the nuclear interior.
+
+Within the nucleus, the DNA is organized into discreet **chromosomes**, each containing one long DNA molecule, wrapped around *histones*: proteins that help coil the DNA to reduce its length.
+
+Inside nucleus there is **nucleolus**: a dense area where *ribosomal RNA* (rRNA) is synthesized from genes in the DNA. Also, large subunits of ribosomes are assembled here. These subunits then leave through the pores.
+
+The nucleus also directs protein synthesis by synthesizing *messenger RNA* (mRNA).
 
 
 ## 6.4. The endomembrane system regulates protein traffic and performs metabolic functions
