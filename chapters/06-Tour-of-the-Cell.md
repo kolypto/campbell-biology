@@ -36,6 +36,48 @@ This allows to prepare specific cell components in bulk.
 
 ## 6.2. Eukaryotic cells have internal membranes that compartmentalize their functions
 
+### Comparing Prokaryotic and Eukaryotic Cells
+All cells share certain features. They are all bounded by a selective barrier: the *plasma membrane*. Inside all cells is a semi-fluid, jellylike substance called **cytosol**, in which subcellular components are suspended. All cells have *chromosomes*, which carry genes in the form of DNA. And all cells have *ribosomes*, tiny complexes that make proteins according to instructions from the genes.
+
+A major difference between eukaryotic and prokaryotic cells is the location of their DNA.
+
+In a **eukaryotic cell** (means: "true nucleus"), most of the DNA is in the organelle called *nucleus*, which is bounded by a double membrane.
+
+In a **prokaryotic cell** ("before nucleus"), the DNA is concentrated in a region that is not membrane-enclosed, called the **nucleoid**.
+
+![](img/06/prokaryotic-cell.png)
+
+The interior of a cell is called the **cytoplasm**. Eukaryotic cells have membrane-enclosed organelles of specialized form an function; prokaryotic cells do not have organelles. Some prokaryotes, however, have regions surrounded by proteins where specific reactions take place.
+
+Typical eukaryotic cells are 10-100 μm in diameter. Prokaryotic cells are generally much smaller: 1-5μm. The logistics of carrying out cellular metabolism set limits on cell size.
+
+Smallest cells known are mycoplasmas: they have diameters between 0.1-1.0μm. These are perhaps the smallest packages with enough DNA to program metabolism and enough enzymes and other cellular equipment to carry out the activities necessary for a cell to sustain itself and reproduce.
+
+### Plasma Membrane
+
+The plasma membrane is a bilayer of phospholipids with various proteins attached to or embedded into it. Carbohydrate side chains may be attached to proteins or lipids on the outer surface.
+
+![](img/06/plasma-membrane.png)
+
+Metabolic requirements inpose a theoretical upper limits on the cell size. The **plasma membrane** is a selective barrier that allows passage of enough oxygen, nutrients, and wastes to service the entire cell. For each square micrometer of membrane, only a limited amount of a particular substance can cross per second, so the ratio of surface area to volume is critical. As a cell increases in size, its surface area grows slower than its volume.
+
+The need for a surface area large enough to accommodate the volume helps explain the microscopic size of most cells.
+
+Cells that exchange a lot of material, such as intertestinal cells, may have long thin projections, called *microvilli*, which increase surface area.
+
+![](img/06/structure-cell-small.jpg)
+
+In addition to the plasma membrane, a eukaryotic cell has extensive, elaborately arranged internal membranes that divide the cell into compartments: the organelles. The compartments provide different local environments that support specific metabolic functions, so incompatible processes can occur simultaneously in a single cell.
+
+All membranes participate directly in the cell's metabolism because many enzymes are built right into the membranes. Each type of membrane has a unique composition, suited to its specific functions.
+
+For example, enzymes embedded into the membranes of mitochondria function in cellular respiration.
+
+### A Panoramic View of the Eukaryotic Cell
+
+![](img/06/animal-cell.png)
+
+![](img/06/plant-cell.png)
 
 
 ## 6.3. The eukaryotic cell's genetic instructions are housed in the nucleus and carried out by the ribosomes

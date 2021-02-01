@@ -240,3 +240,87 @@
 ![](img/wonderful/kinesin.gif)
 
 Перед вами моторный белок кинезин. Эта удивительная молекулярная машина перемещается вдоль микротрубочек в ваших клетках, и миллионы таких трудятся внутри тебя прямо сейчас. Они способны подцепить нужный груз и тащить его. Они знают, в какой момент нужно остановиться и выгружать. Такие миниатюрные наногрузовички, которые занимаются доставкой полезных веществ и выведением продуктов жизнедеятельности.
+
+
+
+
+
+
+# Zombie Fungus
+![](img/wonderful/zombie-fungus-1.png)
+
+This weevil is infected with *ophiocordyceps curculionum*, or a zombie fungus.
+
+There are over 400 subspecies of this fungus, each targeting a specific species of insect. It releases spores that penetrate the exoskeleton and seizes control of the muscles. With control of the motor functions now fully assumed by the parasite, the infected will seek out an elevated spot. When it finds one, the insect will secure themselves to it and then slowly die.
+
+The fungus would feed on the innards of the host until ready to fruit. Those large alien-looking branches are the result of this fruiting. When these fruit rupture, spores are release, which will seek out to infect more weevils and do the same to them.
+
+![](img/wonderful/zombie-fungus-2.png)
+
+Here's another fungus that targets ants. The spores attach to their exoskeletons and break through using mechanical pressure and enzymes. After the fungus enters the ant it propagates, and fungal cells are found beside the host's brain, where it presumably produces compounds that affect the ant's behavior.
+
+An infected ant exhibits irregularly timed full-body convulsions that dislodge it from its canopy nest to the forest floor. The ant then climbs up the stem to a height of 26 cm above the forest floor. This is followed by the fungus controlling the locking of its jaw: the ant bites the leaf so tightly that the ant is prevented from falling as it dies hanging upside down.
+
+Atrophy quickly sets in, destroying the muscle fibers. The ant is no longer able to control the muscles of the mandible and remains fixed in place, hanging upside-down on the leaf. This lockjaw trait is popularly known as the death grip and is essential in the fungus's lifecycle.
+
+The fungus then kills the ant and continues to grow, invading more soft tissues, until it fruits.
+
+The alteration of the host's behavior happens through secretion of various metabolites beside the host's brain and muscle. Studies have shown that the fungus secretes different substances according to the host tissue it encounters and whether they are live or dead.
+
+This fungus is able to destroy entire ant colonies, forming ant graveyards of 20-30 meters in range.
+
+
+
+
+
+
+
+### Plasma Membrane
+
+All living cells are surrounded by membranes. We normally think of it as a barrier that separates the cell from the external environment. But it is much more than that.
+
+The cell requires oxygen and nutrients in order to function, so the membrane needs to allow them in. But it shouldn't let just everything in. At the same time, some waste products are generated in the cell, and those should be removed. But it shouldn't dump all the contents.
+
+Membranes are selectively permeable. They would let some substances in one direction, and other substances in another direction.
+
+Some substances can slowly ooze through the membrane, such as glucose, amino acids, fatty acids, etc. This is passive transport. But there is also active transport, provided by proteins embedded into the membrane: they act as transporters that pump specific molecules in or out, such as `K`, `Na`, `Cl`, `H₂O`, and others. Some transporters function all the time, others will only start pumping on cue.
+
+The membrane may also enclose enzymes: molecules that facilitate specific chemical reactions. For instance, your intestines have digestive enzymes embedded into their membranes that break down complex sugars into simple ones and complex proteins into amino acids. Those broken down components can then be ingested as nutrients.
+
+Cellular membrane also has carbohydrate side chains attached to it: they form distinctive cellular markers, sort of like molecular ID badges, that allow cells to recognize each other. These markers, for instance, allow immune cells to differentiate between body cells, which they shouldn’t attack, and foreign cells or tissues, which they should.
+
+So, the membrane is not just a cell's bag. It is the cell's ID. It acts as a selective pump. It facilitates chemical processes. And it controls which substances go in and out.
+
+![](chapters/img/06/plasma-membrane-ru.png)
+
+Some sci-fi authors wondered whether a large sentient single-cell being is possible. Turns out, the membrane is one of the issues that makes it impossible.
+
+The problem is its capacity to support cellular metabolism. Because the plasma membrane is a selective barrier, each square micrometer of membrane can transport only a limited amount of a particular substance per second, so the ratio of surface area to volume is critical.
+
+As a cell increases in size, its surface area grows slower than its volume. At some point, the membrane just doesn't have enough area to support metabolism. (If we dive into math, cell's volume is proportional to its `r³`, whereas the surface area is proportional to `r²`, so it lags behind).
+
+This explains why cells are microscopic: because of the need for a surface area large enough to accommodate the volume.
+
+There are geometrical tricks that help cells increase their surface area. Cells can be elongated. Some cells have *microvilli*: thin projections that have a lot of surface.
+
+Let's consider intestinal cells, for instance: they need to exchange a lot of material, which requires surface ares. Small intestines have folds; then folds have villi, which look like small hairs on the surface. In fact, each "hair" has blood vessels and lots of epithelial cells, which further have microvilli. Every possible trick is used to increase the surface area and make sure that the food that you is digested and absorbed efficiently.
+
+![](chapters/img/06/intertestinal-microvilli-ru.png)
+
+The outer membrane is actually not the only membrane a cell.
+
+In addition to the plasma membrane, plant and animal cells have extensive, elaborately arranged internal membranes that divide the cell into compartments: the organelles. The compartments provide different local environments that support specific metabolic functions, so incompatible processes can occur simultaneously in a single cell.
+
+All membranes participate directly in the cell's metabolism because many enzymes are built right into the membranes. Each type of membrane has a unique composition, suited to its specific functions.
+
+For example, enzymes embedded into the membranes of mitochondria function in cellular respiration: they process glucose and combine it with oxygen that you've inhaled to produce ATP: the energy source the cell can use.
+
+The nucleus membrane has pores that let copies of DNA out.
+
+The endoplasmic reticulum (see image) has areas where membrane encloses ribosomes: little factories that read DNA code and produce proteins.
+
+Once proteins are produced, this membrane can also form vesicles around them: "bubbles" that enclose proteins and act as shipping containers. Some vesicles would approach the golgi apparatus (see image) where the membrane of the vesicle fuses with it, releaseing proteins. They would undergo further processing, then some of them would leave the cell in another vesicle (see this greenish bubble on the image?).
+
+Remember the motor protein we've seen some time ago? Remember it was carrying a bubble? That's the vesicle: a shipping container for biological molecules. It's all membrane.
+
+![](chapters/img/06/structure-cell-small-ru.png)
