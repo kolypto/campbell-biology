@@ -311,3 +311,25 @@ Remember the motor protein? It was carrying a large bubble: a vesicle, a shippin
 This is how secretion works. From the DNA in the nucleus, all the way to the plasma membrane.
 
 ![](chapters/img/06/structure-cell-small.jpg)
+
+TODO: rewrite
+A **lysosome** is a membranous sac of hydrolytic enzymes used to digest (hydrolyze) macromolecules. These enzymes work best in acidic environment found in lysosomes, and are relatively inactive otherwise.
+
+Lysosomes carry out intracellular digestion. Amoebas and many other unicellular protists eat by engulfing smaller organisms or food particles: a process called **phagosytosis**. The *food vacuole* then fuses with a lysosome, whose enzymes digest the food. Digestive products are: simple sugars, amino acids, other monomers. They pass into the cytosol and become nutrients for the cell.
+
+Some human cells also carry out phagocytosis. Among them are macrophages, a type of white blood cell that helps defend the body by engulfing and destroying bacteria and other invaders.
+
+![](chapters/img/06/lysosome.png)
+
+Lysosomes are also used to recycle the cell's own organic material: a process called *autophagy*. During autophagy, a damaged organelle becomes surrounded by a double membrane (of unknown origin), and a lysosome fuses with it. The lysosomal enzymes dismantle the enclosed material, and the resulting small organic compounds are released to the cytosol for reuse. With the help of lysosomes, the cell continually renews itself. A human liver cell, for example, recycles half of its macromolecules each week.
+
+
+### Vacuoles
+TODO: rewrite ; focus on plants, water, vacuoles
+**Vacuoles** are large vesicles derived from the endoplasmic reticulum and Golgi apparatus. It is selective in transporting solutes; as a result, the solution inside a vacuole differs in composition from the cytosol.
+
+Vacuoles perform a variety of functions. **Food vacuoles** are formed by phagocytosis. **Contractile vacuoles** pump excess water out of the cell. In plants, small vacuoles can hold stockpiled reserves of proteins in seeds. Vacuoles may store poisonous compounds for defense. Some plant vacuoles contain pigments of petals that help attract pollinating insects.
+
+Mature plant cells generally contain a large **central vacuole** that contains cell sap: cell's main repository of inorganic ions and water. It grows as the vacuole absorbs water, up to the point where cytosol occupies only a thin layer between the central vacuole and the plasma membrane.
+
+![](chapters/img/06/central-vacuole.png)

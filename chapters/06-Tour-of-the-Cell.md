@@ -149,7 +149,57 @@ Secretory proteins depart from the ER wrapped in the membranes of vesicles that 
 Rough ER is also a membrane factory for the cell: the membrane grows in place, proteins are inserted into the membrane, and portions of it are transferred in the form of transport vesicles to other components of the endomembrane system.
 
 ### The Golgi Apparatus: Shipping and Receiving Center
+Many transport vesicles travel to the **Golgi apparatus**: a warehouse for receiving, sorting, shipping, and even some manufacturing.
 
+Here, products of the ER, such as proteins, are modified and stored and then sent to other destinations. Not surprisingly, the Golgi apparatus is especially extensive in cells specialized for secretion.
+
+The Golgi apparatus consists of a groups of associated, flattened membranous sacs: cisternae. A cell may have many, even hundreds, of these stacks. Vesicles around it are engaged in the transfer of material between parts of the Golgi and other structures.
+
+It has a directionality: *cis* face (receiving side) and *trans* face (shipping side). Vesicles can add its membrane and the contents of its lumen to the *cis* face by fusing with a Golgi membrane on that side. The *trans* face gives rise to vesicles that pinch off and travel to other sides.
+
+While going through the Golgi apparatus, products are usually modified: e.g. glycoproteins have some sugar monomers replaced by others. Membranes may also be altered in the Golgi.
+
+The Golgi apparatus also manufactures many polysaccharides: pectins and others.
+
+![](img/06/golgi-apparatus.png)
+
+Each cisternae contains unique teams of enzymes. Until recently, it was thought that the Golgi is a static structure, with vesicles travelling between cisternae.
+The *cisternal maturation model*, where the cisternae actually progress forward carrying and modifying their cargo as they move. In addition, some vesicles recycle enzymes by transporting them "backward" to a less mature region.
+In reality, both both models probably apply: some regions of the cistarnae remain in place, while the outer ends are more dynamic.
+
+The Golgi stack also sorts the products and targets them for various parts of the cell. Molecular identification tags, such as phosphate groups added to the Golgi products, aid in sorting by acting like zip codes on mailing labels.
+
+Finally, transport vesicles budded from the Golgi may have external molecules on their membranes that recognize "docking sites" on the surface of specific organelles or on the plasma membrane, thus targeting the vesicles appropriately.
+
+Animation:
+
+[![](https://img.youtube.com/vi/yI5x3yI3frU/0.jpg)](https://youtube.com/watch?v=yI5x3yI3frU)
+
+
+### Lysosomes: Digestive Compartments
+A **lysosome** is a membranous sac of hydrolytic enzymes used to digest (hydrolyze) macromolecules. These enzymes work best in acidic environment found in lysosomes, and are relatively inactive otherwise.
+
+Lysosomes carry out intracellular digestion. Amoebas and many other unicellular protists eat by engulfing smaller organisms or food particles: a process called **phagosytosis**. The *food vacuole* then fuses with a lysosome, whose enzymes digest the food. Digestive products are: simple sugars, amino acids, other monomers. They pass into the cytosol and become nutrients for the cell.
+
+Some human cells also carry out phagocytosis. Among them are macrophages, a type of white blood cell that helps defend the body by engulfing and destroying bacteria and other invaders.
+
+![](img/06/lysosome.png)
+
+Lysosomes are also used to recycle the cell's own organic material: a process called *autophagy*. During autophagy, a damaged organelle becomes surrounded by a double membrane (of unknown origin), and a lysosome fuses with it. The lysosomal enzymes dismantle the enclosed material, and the resulting small organic compounds are released to the cytosol for reuse. With the help of lysosomes, the cell continually renews itself. A human liver cell, for example, recycles half of its macromolecules each week.
+
+### Vacuoles
+**Vacuoles** are large vesicles derived from the endoplasmic reticulum and Golgi apparatus. It is selective in transporting solutes; as a result, the solution inside a vacuole differs in composition from the cytosol.
+
+Vacuoles perform a variety of functions. **Food vacuoles** are formed by phagocytosis. **Contractile vacuoles** pump excess water out of the cell. In plants, small vacuoles can hold stockpiled reserves of proteins in seeds. Vacuoles may store poisonous compounds for defense. Some plant vacuoles contain pigments of petals that help attract pollinating insects.
+
+Mature plant cells generally contain a large **central vacuole** that contains cell sap: cell's main repository of inorganic ions and water. It grows as the vacuole absorbs water, up to the point where cytosol occupies only a thin layer between the central vacuole and the plasma membrane.
+
+![](img/06/vacuole.png)
+
+![](img/06/central-vacuole.png)
+
+### Endomembrane System Review
+![](img/06/endomembrane-system-review.png)
 
 
 ## 6.5. Mitochondria and chloroplasts change energy from our form to another
