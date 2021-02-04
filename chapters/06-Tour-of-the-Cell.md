@@ -203,10 +203,53 @@ Mature plant cells generally contain a large **central vacuole** that contains c
 
 
 ## 6.5. Mitochondria and chloroplasts change energy from our form to another
+**Mitochondria** singular, *mitochondrion*) are the sites of cellular respiration: the metabolic process that uses oxygen to drive the generation of ATP by extracting energy from sugars, fats, and other fuels.
+
+**Chloroplasts**, found in plants and algae, are the sites of photosynthesis.
+
+### Evolutionary Origin of Mitochondria and Chloroplasts
+Mitochondria and chloroplasts display similarities with bacteria. This led to the **endosymbiont theory**: an early ancestor of eukaryotic cells (a *host* cell) engulfed an oxygen-using nonphotosynthetic prokaryotic cell. Eventually, the engulfed cell formed a relationship with the host cell in which it became an *endosymbiont*: a cell living within another cell.
+
+This is a widely accepted theory. Because:
+1) it's bounded by a double-membrane, not by a single membrane like organelles (evidence suggests that ancestral prokaryotes had two outer membranes); 2) they contain ribosomes and own circular DNA molecules, like bacterial chromosomes; 3) they are autonomous organelles that grow and reproduce within the cell.
+
+### Mitochondria: Chemical Energy Conversion
+Cells often have hundreds or even thousands of mitochondria, the number correlating with the cell's level of metabolic activity: i.e. higher in cells that move or contract.
+
+The inner membrane encloses the **mitochondrial matrix** and has infoldings called **cristae** which increase the surface area. The matrix contains many different enzymes, mitochondrial DNA, ribosomes.
+
+The enzymes catalyze some of the steps of cellular respiration. Other enzymes, including the one that makes ATP, are built into the inner membrane.
+
+![](img/06/mitochondrion.png)
+
+Time-lapse films show that mitochondira move around, change their shapes, fuse and divide into fragments. Mitochondria form a branched tubular network that is in a dynamic state of flux (see image, part (b)).
+
+In skeletal muscle, this network has been referred to as a "power grid".
+
+### Chloroplasts: Capture of Light Energy
+These lens-shaped organelles are found in leaves and other green organs of plants and in algae. Inside the double membrane is has another membranous system of flat, interconnected sacs called **thylakoids**. They stack into a **granum** (plural, *grana*). The fluid outside them is the **stroma**, which contains the chloroplast DNA and ribosomes, as well as many enzymes.
+
+Chloroplasts are not static: their shape is changeable, they grow and occasionally pinch in two, reproducing themselves. They move around the cell along tracks of the cytoskeleton.
+
+![](img/06/chloroplast.png)
+
+Chloroplasts belong to a class of **plastids**. There are *amyloplasts* that store starch (alylose), particularly in roots and tubers. *Chromoplast* has pigments that give fruits and flowers their orange and yellow hues.
+
+### Peroxisomes: Oxidation
+The **peroxisome** is a specialized metabolic compartment. It has a single membrane, and it contains enzymes that remove `H₂` from various substances and attaches them to `O₂`, producing hydrogen peroxide `H₂O₂` as a by-product, hence the name.
+
+Functions: break fatty acids own into smaller molecules that are transported to mitochondira and used as fuel. In liver, they detoxify alcohol and other harmful compounds.
+
+The `H₂O₂` is itself toxic, but the organelle also contains an enzyme that converts `H₂O₂` to water.
+
+Peroxisome is an excellent example how the cell's compartmental structure is crusial to its functions: toxic substances are sequestered away from other cellular components that could be damaged.
+
+In seeds, there is a type of peroxisome called *glyoxysomes*: they contain enzymes that convert fatty acids to sugar, which the seedling uses as a source of energy and carbon until it can produce its own sugar by photosynthesis.
 
 
 
 ## 6.6. The cytoskeleton is a network of fibers that organizes structures anc activities in the cell
+
 
 
 
