@@ -250,6 +250,43 @@ In seeds, there is a type of peroxisome called *glyoxysomes*: they contain enzym
 
 ## 6.6. The cytoskeleton is a network of fibers that organizes structures anc activities in the cell
 
+### Role of Cytoskeleton: Support and Mobility
+**Cytoskeleton** is a network of fibers extending throughout the cytoplasm. It gives mechanical support to the cell and maintains its shape, which is especially important to animal cells which lack walls. It also provides anchorage for many organelles and even cytosolic enzyme molecules.
+
+The cytoskeleton is more dynamic than an animal skeleton, however: it can be quickly dismantled in one part of the cell and reassembled in a new location, changing the shape of the cell. The cytoskeleton manipulates the plasma membrane, bending it inward to form food vacuoles or other phagocytic vesicles.
+
+![](img/06/cytoskeleton-micrograph.png)
+
+Vesicles and other organelles often use motor proteins that "walk" to their destinations along a track provided by the cytoskeleton. For example, this is how vesicles containing neurotransmitter molecules migrate to the tips of axons and release chemical signals to the adjacent nerve cells.
+
+![](img/06/motor-protein-and-cytoskeleton.png)
+
+### Components of the Cytoskeleton
+Three main types of fibers:
+
+* *Microtubules* are the thickest of the three.
+* *Microfilaments* (also called actin filaments) are the thinnest.
+* *Intermediate filaments* are fibers with diameters in a middle range
+
+![](img/06/cytoskeleton-fibers.png)
+
+### Microtubules
+**Microtubules** are hollow rods contructed from globular proteins: tubulins, of two different types. Microtubules grow in length by adding tubulin dimers (molecule made of two components), and can also be disassembled.
+
+On one end, the "plus end", the microtubule can grow and shrink much faster (because of the orientation of tubulin dimers).
+
+Microtubules shape and support the cell, and also serve as tracks along which organelles equipped with motor proteins can move. Microtubules also guide vesicles from the ER to the Golgi apparatus, and from it -- to the plasma membrane.
+
+### Centrosomes and Centrioles
+In animal cells, microtubules grow out from a **centrosome**, often located near the nucleus. They function as compression-resisting girders of the cytoskeleton.
+
+Centrosome is composed of a pair of **centrioles**, each having nine sets of triplet microtubules arranged in a ring.
+
+Many other, non-animal, eukaryotic cells lack centrosomes and use other means to organize microtubules.
+
+![](img/06/centrosome.png)
+
+### Cilia and Flagells
 
 
 
