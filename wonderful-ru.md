@@ -266,27 +266,23 @@
 # Zombie Fungus
 ![](img/wonderful/zombie-fungus-1.png)
 
-This weevil is infected with *ophiocordyceps curculionum*, or a zombie fungus.
+Долгоносик на картинке заражён грибком Кордицепс (*ophiocordyceps curculionum*), также известным как **зомбирующий гриб**.
 
-There are over 400 subspecies of this fungus, each targeting a specific species of insect. It releases spores that penetrate the exoskeleton and seizes control of the muscles. With control of the motor functions now fully assumed by the parasite, the infected will seek out an elevated spot. When it finds one, the insect will secure themselves to it and then slowly die.
+У кордицепса более 400 видов, каждый из которых специализируется на заражении одного конкретного вида насекомых. Гриб выпускает споры, которые способны пробивать экзоскелет (панцирь) и контролировать мышцы насекомого. Находясь под управлением грибка, насекомое карабкается на определённую высоту, фиксируется на стволе растения, и потом медленно умирает.
 
-The fungus would feed on the innards of the host until ready to fruit. Those large alien-looking branches are the result of this fruiting. When these fruit rupture, spores are release, which will seek out to infect more weevils and do the same to them.
+Грибок в это время кормится внутренностями насекомого, пока не будет готово принести плод. Эти большие антенны, выглядящие словно они с другой планеты, и есть плоды грибка: утолщение на конце лопнет и выпустит споры, которые разлетятся и будут искать новые жертвы среди долгоносиков, чтобы точно так же их убить.
 
 ![](img/wonderful/zombie-fungus-2.png)
 
-Here's another fungus that targets ants. The spores attach to their exoskeletons and break through using mechanical pressure and enzymes. After the fungus enters the ant it propagates, and fungal cells are found beside the host's brain, where it presumably produces compounds that affect the ant's behavior.
+Другой вид того же самого грибка специализируется на муравьях. Споры прикрепляются к их экзоскелету и проникают внутрь, растворяя его ферментами и оказывая механическое давление. Попав внутрь, грибок распространяется по всему телу, находя мышцы, и проникая даже в область мозга, где он может контролировать поведение муравья.
 
-An infected ant exhibits irregularly timed full-body convulsions that dislodge it from its canopy nest to the forest floor. The ant then climbs up the stem to a height of 26 cm above the forest floor. This is followed by the fungus controlling the locking of its jaw: the ant bites the leaf so tightly that the ant is prevented from falling as it dies hanging upside down.
+Гриб не управляет мозгом, нет. Но он выпускает химические вещества, которые нарушают его работу. В результате у муравья случаются внезапные судороги, и он сваливается на землю. Там он начинает карабкаться по какой-нибудь травинке на комфортную для грибка высоту 26см. На нужной высоте муравей мощно закусывает веточку, и так и остаётся на ней, надёжно зафиксированный собственными челюстями. Мышцы муравья очень быстро атрофируются, и муравей, ещё живой, становится уже не способен ими управлять.
 
-Atrophy quickly sets in, destroying the muscle fibers. The ant is no longer able to control the muscles of the mandible and remains fixed in place, hanging upside-down on the leaf. This lockjaw trait is popularly known as the death grip and is essential in the fungus's lifecycle.
+Грибок продолжает кормиться телом муравья до тех пор, пока не даст плоды.
 
-The fungus then kills the ant and continues to grow, invading more soft tissues, until it fruits.
+Интересен мезанизм, управляющий поведением муравья. Грибок, находясь около мозга муравья, выпускает различиные химические вещества, которые воздействуют на него, изменяя поведение. При этом тот же грибок, находящийся около мышечной ткани, выпускает другие химические вещества. То есть, грибок способен определять, около какой ткани он находится. Грибок так же чувствует, жив ли носитель, и когда тот умирает, секреция грибка тоже меняется.
 
-The alteration of the host's behavior happens through secretion of various metabolites beside the host's brain and muscle. Studies have shown that the fungus secretes different substances according to the host tissue it encounters and whether they are live or dead.
-
-This fungus is able to destroy entire ant colonies, forming ant graveyards of 20-30 meters in range.
-
-
+Зомбирующй гриб способен уничтожить целую колонию муравьёв, образуя кладбища диаметром в 20-30 метров.
 
 
 
