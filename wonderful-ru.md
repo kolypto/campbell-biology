@@ -306,19 +306,20 @@
 
 ![](chapters/img/06/plasma-membrane-ru.png)
 
-Some sci-fi authors wondered whether a large sentient single-cell being is possible. Turns out, the membrane is one of the issues that makes such a being impossible.
+У некоторых писателей-фантастов можно встретить больших разумных одноклеточных существ. Но как оказывается, существование крупной клетки невозможно из-за нюансов с мембраной.
 
-The problem is its capacity to support cellular metabolism. Because the plasma membrane is a selective barrier, each square micrometer of membrane can transport only a limited amount of a particular substance per second, so the ratio of surface area to volume is critical.
+Проблема в том, что у мембраны ограниченная поддерживать клеточный метаболизм (её химические процессы). Так как мембрана имеет выборочную проницаемость, каждый микрометр её площади способен проводить только некоторое количество вещества в секунду. Таким образом, очень важно́ соотношение площади поверхности клетки к её объёму.
 
-As a cell increases in size, its surface area grows slower than its volume. At some point, the membrane just doesn't have enough area to support metabolism. The cell becomes just too big, and the membrane cannot do enough. (If we dive into math, cell's volume is proportional to its `r³`, whereas the surface area is proportional to `r²`, so it lags behind).
+С увеличением размера клетки, площадь её поверхности растёт, но растёт медленнее чем объём. В какой-то момент мембрана просто не сможет проводить достаточно веществ для поддержки всех процессов, происходящих в клетке. Она просто становится слишком большой, и мембрана не будет успевать.
+(Если закопаться в математику, то вспомним, что объём шара пропорционален кубу его радиуса `r³`, в то время как площадь поверхности пропорциональна лишь квадрату радиуса `r²`, так что площадь поверхности всегда отстаёт).
 
-This explains why cells are microscopic: because of the need for a surface area large enough to accommodate the volume.
+Эта закономерность объясняет, почему все клетки такие маленькие: потому что у них должна быть площадь поверхности, достаточная для поддержания процессов в объёме клетки.
 
-There are geometrical tricks that help cells increase their surface area. Some cells are elongated, such as nerve cells. Other cells have *microvilli*: thin projections that have a lot of surface.
+Однако клетки не шарики. Есть геометрические хитрости, которые используются для того, чтобы увеличить площадь поверхности. Многие клетки имеют вытянутую форму. У других клеток есть **микровилли**: такие выступы, похожие на ворсинки: они тонкие, имеют малый объём, но при этом имеют много поверхности.
 
-Let's consider intestinal cells, for instance: they need to exchange a lot of material, and this process requires surface area. Small intestines have folds; then folds have villi, which look like small hairs on the surface. In fact, each "hair" has blood vessels and lots of epithelial cells. These *villi* are composed of cells, and those cells also have *microvilli*.
+Для примера взглянем на клетки кишечника, которым нужно уметь оперативно проводить обменные процессы, а для этого требуется много поверхности. Во-первых, у тонкого кишечника множество складок. Эти складки шершавые: на их поверхности имеются ворсинки ("вилли"), но это не волоски, а выступы эпителия, в каждом из которых есть капилляры и лимфатические сосуды (см. картинку). Наконец, клетки эпителия также имеют выступы: **микровилли**, которые ещё больше увеличивают площадь поверхности.
 
-Every possible trick is used to increase the surface area and make sure that the food that you is digested and absorbed efficiently.
+Таким образом, в кишечнике используются геометрические хитрости для того, чтобы увеличить площадь поверхности и эффективно переваривать то вкусное блюдо, которым вы сегодня пообедали.
 
 ![](chapters/img/06/intertestinal-microvilli-ru.png)
 
