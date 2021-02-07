@@ -362,13 +362,13 @@ Cilia are also found in a woman's reproductive tract: the cilia lining the ovidu
 # Cilia and Flagella
 Some cells have small cilia to row through the liquid, but others, such as sperm cells, have a single long tail-like **flagellum**. A flagellum has an undulating motion like the tail of a fish (see image, left).
 
-As simple as it looks, the flagellum is a marvelous molecular machine (see image, right).
+As simple as it looks, the flagellum is a marvelous molecular mechanism (see image, right).
 
-It consists of microtubules (see image, colored yellow) arranged in the so-called "9 + 2" pattern: 9 pairs of microtubules are arranged around the central pair. All microtubules are linked by proteins (see image, colored blue) that provide structural integrity, yet let it bend.
+It consists of microtubules (see image, colored yellow) arranged in the so-called "9 + 2" pattern: 9 pairs of microtubules are arranged around the central pair. All microtubules are linked by elastic proteins (see image, colored blue).
 
-The bending movement is produced by large motor proteins called **dyneins** (see image, colored red): arrays of them are attached to microtubules. They have feet that push the adjacent pair of microtubules, causing them to slide.
+The bending movement is produced by large motor proteins called **dyneins** (see image, colored red): arrays of them are attached to microtubules. They have feet that push the adjacent pair of microtubules, causing them to slide past each other. When this "frame" changes shape, the flagellum bends.
 
-The push of dyneins is coordinated by molecular signals so that it happens only one one side of the flagellum at a time. Then, the coordination signal changes, and the other side of the flagellum operates, bending it into the opposite direction. Bending left, then bending right. The result is the fish-like swimming motion.
+The push of dyneins is coordinated by molecular signals: the "push" happens only one one side of the flagellum at a time. Then the coordination signal changes, and the other side of the flagellum become active, bending it into the opposite direction. Bending left, then bending right. The result is the fish-like swimming motion.
 
 A larger picture of this *dynein* motor protein is shown in the circle at the bottom (see image): it's base is attached to one microtubule at the top, and its leg pushes the adjacent microtubule at the bottom.
 
