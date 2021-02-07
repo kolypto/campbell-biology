@@ -263,7 +263,7 @@
 
 
 
-# Zombie Fungus
+# Зомбирующий Гриб
 ![](img/wonderful/zombie-fungus-1.png)
 
 Долгоносик на картинке заражён грибком Кордицепс (*ophiocordyceps curculionum*), также известным как **зомбирующий гриб**.
@@ -287,23 +287,22 @@
 
 
 
-# Plasma Membrane
+# Плазматическая Мембрана
+Каждая живая клетка окружена мембраной. Мы обычно думаем, что это такая оболочка, отделяющая клетку от внешней среды. Но мембрана умеет намного больше, чем кажется на первый взгляд.
 
-Every living cell is surrounded by a membrane. We normally think of a membrane as a barrier that separates the cell from the external environment. But it is much more than that.
+Клетке для жизнедеятельности нужнен кислород и питательные вещества, так мембране нужно уметь впускать их внутрь клетки. Но мембрана не должна запускать внутрь всё подряд, но быть избирательной. При этом, в клетке образуются отходы, от которых нужно избавляться, и мембрана должна уметь их выпускать. Но она не должна выбрасывать из себя всё подряд.
 
-The cell requires oxygen and nutrients in order to function, so the membrane needs to allow them in. But it shouldn't let just everything in. At the same time, some waste products are generated in the cell, and these should be removed. But the membrane shouldn't just let everything out.
+Поэтому мембрана обладает *выборочной проницаемостью*. Она контролирует проход веществ изнутри наружу, и снаружи вовнутрь, определяя, что и куда может пройти.
 
-Membranes are selectively permeable. They would let some substances in one direction, and other substances in another direction.
+Некоторые вещества могут постепенно сочиться сквозь мембрану: например, глюкоза, аминокислоты, жирные кислоты, и прочие. Это пассивная проницаемость. Но есть и активная траспортировка, которую обеспецивают белки, встроенные в мембрану (см. картинку, фиолетовые вставки). Эти белки работают как транспортировочные механизмы, которые прокачивают через себя определённые молекулы: `K`, `Na`, `Cl`, `H₂O`, и другие. Некоторые из них действуют постоянно; другие активируются только по сигналу.
 
-Some substances can slowly ooze through the membrane, such as glucose, amino acids, fatty acids, etc. This is passive transport. But there is also active transport, provided by proteins embedded into the membrane: they act as transporter mechanisms that pump specific molecules in and out: `K`, `Na`, `Cl`, `H₂O`, and others. Some transporters function all the time, others will only start pumping on cue.
+В мембране также могут быть вставлены ферменты: молекулярные конструкции, которые проводят определённые химические реакции. Например, в кишечнике в оболочку клеток встроены пищеварительные ферменты, которые разлагают сложные сахара на простые, разбирают сложные белки на аминокислоты, и все эти базовые компоненты усваиваютс организмом для того, чтобы использовать в собственных клетках.
 
-The membrane may also enclose enzymes: molecules that facilitate specific chemical reactions. For instance, your intestines have digestive enzymes embedded into their membranes that break down complex sugars into simple ones and complex proteins into amino acids. Those broken down components can then be ingested as nutrients.
+На поверхности мембраны также есть углеводные "хвостики" (см. картинку, зелёным цветом). Эти поверхностные углеводы выполняют функцию маркеров: это как паспорт клетки, по которому они узнают друг друга. В частности, поверхностные углеводы позволяют имунным клеткам опознавать клетки организма, то есть "своих", и отличать их от "чужих". Благодаря этому механизму, имунные клетки атакуют чужеродные бактерии, но не трогают клетки нашего организма.
 
-Cellular membrane also has carbohydrate side chains attached to it: they form distinctive cellular markers, sort of like molecular ID badges, that allow cells to recognize each other. These markers, for instance, allow immune cells to identify body cells, which they shouldn’t attack, and tell them from foreign cells or tissues, which they should.
+Так что мембрана — это не просто мешок. Это паспорт клетки. Это избирательный насос. Это поверхность, проводящая химические реакции. И это граница, решающая, что пропустить внутрь, а что нет.
 
-So, the membrane is not just a cell's bag. It is the cell's ID. It acts as a selective pump. It facilitates chemical processes. And it controls which substances go in and out.
-
-That's one smart bag.
+Оказывается, это очень умный мешок.
 
 ![](chapters/img/06/plasma-membrane-ru.png)
 
