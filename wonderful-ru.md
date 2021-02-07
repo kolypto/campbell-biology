@@ -291,7 +291,7 @@ This fungus is able to destroy entire ant colonies, forming ant graveyards of 20
 
 
 
-### Plasma Membrane
+# Plasma Membrane
 
 Every living cell is surrounded by a membrane. We normally think of a membrane as a barrier that separates the cell from the external environment. But it is much more than that.
 
@@ -346,3 +346,83 @@ Remember the motor protein? It was carrying a large bubble: a vesicle, a shippin
 This is how secretion works. From the DNA in the nucleus, all the way to the plasma membrane.
 
 ![](chapters/img/06/structure-cell-small-ru.png)
+
+
+
+
+# Lysosome
+Wonder how cells keep themselves young?
+
+Have a look at the **lysosome**: a sac made of membrane with enzymes that can digest large molecules such as sugars, fats, and proteins. These enzymes require acidic environment for their function: an environment that would be dangerous to cell's organelles, so this environment is localized to a lysosome. A dangerous sac of digestive stuff.
+
+Lysosomes are used to digest things when they get inside the cell. Single-celled organisms, such as protists, eat by engulfing smaller organisms and food particles. This engulfing creates a *food vacuole*: a membrane that surrounds the food. A lysosome then fuses with it, and the enzymes digest the food (see image, left).
+
+This digestion process is actually the breaking up of large molecules into smaller ones. Complex sugars are broken down into simple sugars, and proteins are broken down into amino acids. So, whatever the prey was made of, is disassembled into the basic building blocks of life. The cell can use them for its own purposes.
+
+Lysosomes are also used to recycle the cell's own parts. In a process called *autophagy* (Greek "auto", self, and "phagos", devour) a damaged organelle becomes surrounded by a double membrane of unknown origin. A lysosome fuses with it and releases digestive enzymes that dismantle the enclosed material (see image, right).
+
+The resulting small organic building blocks are then released into the cytoplasm for reuse. Out of this material, a new, healthy, organelle may be built to replace the destroyed one.
+
+ With the help of lysosomes, the cell continually renews itself. A human liver cell, for example, recycles half of its macromolecules each week!
+
+![](chapters/img/06/lysosome.png)
+
+
+
+
+
+# Vacuoles
+Why do plants wither when you do not water them?
+
+Plant cells have a **central vacuole**: a large bubble, surrounded by a membrane, that contains cell sap. This is cell's main repository of water, and also inorganic ions.
+
+Plants can't walk, so when it rains, it has to store as much water as it can. The plant absorbs water, and exsessive water is stored inside this central vacuole. It becomes bigger as more water is absorbed, and can become really huge: up to the point where the rest of the cell occupies only a thin layer between the central vacuole and the plasma membrane.
+
+When there's no more rain, the plant still needs water, and it's taken from the central vacuole, which starts to shrink. When there's little water left, the vacuole becomes smaller and smaller, and you can see that a plant withers: because all of its cells have shriveled.
+
+![](chapters/img/06/central-vacuole.png)
+
+
+
+
+
+
+# Реснички на поверхности ваших лёгких
+Ваша трахея — это не просто труба для воздушного потока. Они также умеют поддерживать ваши лёгкие в чистоте.
+
+На поверхности трахеи и бронхов находятся реснички: небольшие волоски которые совершают возвратно-поступательное движение. То есть, машут вперёд-назад :) Этим движением они, как маленькие вёсла, заставляют двигаться слизь, которая содержит пыль и прочие лишние частицы, попавшие в лёгкие. Благодаря их работе эта слизь движется вверх, и достигает горла, где мы её откашливаем и избавляемся от неё.
+
+Так ваши лёгкие самоочищаются. Ресничками.
+
+Реснички также находятся в трубах, ведущих от яичников: реснички выстилают их поверхность и продвигают яйцеклетку к матке.
+
+Одноклеточные организмы тоже могут иметь реснички: множество ресничек на поверхности такой клетке совместно гребут жидкость и позволяют клетке продвигаться вперёд.
+
+![](chapters/img/06/windpipe-cilia.png)
+
+
+
+
+
+# Cilia and Flagella
+Some cells have small cilia to row through the liquid, but others, such as sperm cells, have a single long tail-like **flagellum**. A flagellum has an undulating motion like the tail of a fish (see image, left).
+
+As simple as it looks, the flagellum is a marvelous molecular machine (see image, right).
+
+It consists of microtubules (see image, colored yellow) arranged in the so-called "9 + 2" pattern: 9 pairs of microtubules are arranged around the central pair. All microtubules are linked by proteins (see image, colored blue) that provide structural integrity, yet let it bend.
+
+The bending movement is produced by large motor proteins called **dyneins** (see image, colored red): arrays of them are attached to microtubules. They have feet that push the adjacent pair of microtubules, causing them to slide.
+
+The push of dyneins is coordinated by molecular signals so that it happens only one one side of the flagellum at a time. Then, the coordination signal changes, and the other side of the flagellum operates, bending it into the opposite direction. Bending left, then bending right. The result is the fish-like swimming motion.
+
+A larger picture of this *dynein* motor protein is shown in the circle at the bottom (see image): it's base is attached to one microtubule at the top, and its leg pushes the adjacent microtubule at the bottom.
+
+![](chapters/img/06/flagellum-dynein.png)
+
+Click this video to see this thing in action!
+
+[![](https://img.youtube.com/vi/9nZYlyFGm50/0.jpg)](https://youtube.com/watch?v=9nZYlyFGm50)
+
+
+
+

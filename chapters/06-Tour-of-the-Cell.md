@@ -286,7 +286,42 @@ Many other, non-animal, eukaryotic cells lack centrosomes and use other means to
 
 ![](img/06/centrosome.png)
 
-### Cilia and Flagells
+### Cilia and Flagella
+Both **flagella** (singular, *flagellum*) and **cilia** (singular, *cilium*) contain microtubules. Their specialized arrangement is responsible for the beating of these structures.  (The bacterial flagellum, however, has a completely different structure).
+
+Flagella and cilia propel unicellular protists, sperm cells, algae. The ciliated lining of the trachea (windpipe) sweeps mucus containing trapped debris out of the lungs. In a woman's reproductive tract, the cilia lining the oviducts help move an egg towards the uterus.
+
+![](img/06/windpipe-cilia.png)
+
+A cell usually has, if any, no more than a few long flagella, or large numbers of short cilia. A flagellum has an undulating motion like the tail of a fish. Cilia have alternating power and recovery strokes, much like the oars of a boat.
+
+![](img/06/cilia-and-flagella-motion.png)
+
+#### Primary Cilium
+
+A cilium may also act as a signal-receiving "antenna" for the cell. In fact, in vertebrate animals, it appears that almost all cells have such a cilium, which is called a *primary cilium* (blood cells being a prominent exception). Membrane proteins on this kind of cilium transmit molecular signals from teh cell's environment to its interior, triggering signaling pathways that may lead to changes in the cell's activities.
+
+Although the primary cilium was discovered in 1898, it was largely ignored for a century and considered a vestigial (evolutionary leftover) organelle without important function. Recent findings regarding its physiological roles in chemosensation, signal transduction, and cell growth control, have revealed its importance in cell function. The primary cilium is now known to play an important role in the function of many human organs.
+
+Some primary cilia on epithelial cells in eukaryotes act as cellular antennae, providing chemosensation, thermosensation and mechanosensation of the extracellular environment.
+
+In the kidney, primary cilia sense urine flow and are essential for the maintenance of epithelial architecture.
+
+#### Structure
+Each motile cilium/flagellum has a group of microtubules sheathed in an extension of the plasma membrane. The arrangement is referred to as the "9 + 2" pattern and is found in nearly all eukaryotic flagella and motile cilia. Nonmotile primary cilia have a "9 + 0" pattern, lacking the central pair of microtubules.
+
+The assembly is anchored in the cell by a **basal body**, which is structurally similar to a centriole, with "9 + 0" triplets. In many animals, including humans, the basal body of the fertilizing sperm's flagellum enters the egg and becomes a centriole!
+
+![](img/06/flagellum-structure.png)
+
+The bending movement involves large motor proteins called **dyneins**: they have "feet" that "walk" along the microtubule of the adjacent doublet. The walking movement is coordinated so that it happens on one side of the circle at a time. The doublets do not slide past each other because they are held in place by flexible cross-linking proteins. They can't slide, so the walking of the dynein feet cause the microtubules to bend.
+
+Animation:
+
+[![](https://img.youtube.com/vi/9nZYlyFGm50/0.jpg)](https://youtube.com/watch?v=9nZYlyFGm50)
+
+### Microfilaments
+
 
 
 

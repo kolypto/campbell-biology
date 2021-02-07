@@ -256,7 +256,7 @@ This fungus is able to destroy entire ant colonies, forming ant graveyards of 20
 
 
 
-### Plasma Membrane
+# Plasma Membrane
 
 Every living cell is surrounded by a membrane. We normally think of a membrane as a barrier that separates the cell from the external environment. But it is much more than that.
 
@@ -312,24 +312,70 @@ This is how secretion works. From the DNA in the nucleus, all the way to the pla
 
 ![](chapters/img/06/structure-cell-small.jpg)
 
-TODO: rewrite
-A **lysosome** is a membranous sac of hydrolytic enzymes used to digest (hydrolyze) macromolecules. These enzymes work best in acidic environment found in lysosomes, and are relatively inactive otherwise.
 
-Lysosomes carry out intracellular digestion. Amoebas and many other unicellular protists eat by engulfing smaller organisms or food particles: a process called **phagosytosis**. The *food vacuole* then fuses with a lysosome, whose enzymes digest the food. Digestive products are: simple sugars, amino acids, other monomers. They pass into the cytosol and become nutrients for the cell.
+# Lysosome
+Wonder how cells keep themselves young?
 
-Some human cells also carry out phagocytosis. Among them are macrophages, a type of white blood cell that helps defend the body by engulfing and destroying bacteria and other invaders.
+Have a look at the **lysosome**: a sac made of membrane with enzymes that can digest large molecules such as sugars, fats, and proteins. These enzymes require acidic environment for their function: an environment that would be dangerous to cell's organelles, so this environment is localized to a lysosome. A dangerous sac of digestive stuff.
+
+Lysosomes are used to digest things when they get inside the cell. Single-celled organisms, such as protists, eat by engulfing smaller organisms and food particles. This engulfing creates a *food vacuole*: a membrane that surrounds the food. A lysosome then fuses with it, and the enzymes digest the food (see image, left).
+
+This digestion process is actually the breaking up of large molecules into smaller ones. Complex sugars are broken down into simple sugars, and proteins are broken down into amino acids. So, whatever the prey was made of, is disassembled into the basic building blocks of life. The cell can use them for its own purposes.
+
+Lysosomes are also used to recycle the cell's own parts. In a process called *autophagy* (Greek "auto", self, and "phagos", devour) a damaged organelle becomes surrounded by a double membrane of unknown origin. A lysosome fuses with it and releases digestive enzymes that dismantle the enclosed material (see image, right).
+
+The resulting small organic building blocks are then released into the cytoplasm for reuse. Out of this material, a new, healthy, organelle may be built to replace the destroyed one.
+
+ With the help of lysosomes, the cell continually renews itself. A human liver cell, for example, recycles half of its macromolecules each week!
 
 ![](chapters/img/06/lysosome.png)
 
-Lysosomes are also used to recycle the cell's own organic material: a process called *autophagy*. During autophagy, a damaged organelle becomes surrounded by a double membrane (of unknown origin), and a lysosome fuses with it. The lysosomal enzymes dismantle the enclosed material, and the resulting small organic compounds are released to the cytosol for reuse. With the help of lysosomes, the cell continually renews itself. A human liver cell, for example, recycles half of its macromolecules each week.
 
 
-### Vacuoles
-TODO: rewrite ; focus on plants, water, vacuoles
-**Vacuoles** are large vesicles derived from the endoplasmic reticulum and Golgi apparatus. It is selective in transporting solutes; as a result, the solution inside a vacuole differs in composition from the cytosol.
+# Vacuoles
+Why do plants wither when you do not water them?
 
-Vacuoles perform a variety of functions. **Food vacuoles** are formed by phagocytosis. **Contractile vacuoles** pump excess water out of the cell. In plants, small vacuoles can hold stockpiled reserves of proteins in seeds. Vacuoles may store poisonous compounds for defense. Some plant vacuoles contain pigments of petals that help attract pollinating insects.
+Plant cells have a **central vacuole**: a large bubble, surrounded by a membrane, that contains cell sap. This is cell's main repository of water, and also inorganic ions.
 
-Mature plant cells generally contain a large **central vacuole** that contains cell sap: cell's main repository of inorganic ions and water. It grows as the vacuole absorbs water, up to the point where cytosol occupies only a thin layer between the central vacuole and the plasma membrane.
+Plants can't walk, so when it rains, it has to store as much water as it can. The plant absorbs water, and exsessive water is stored inside this central vacuole. It becomes bigger as more water is absorbed, and can become really huge: up to the point where the rest of the cell occupies only a thin layer between the central vacuole and the plasma membrane.
+
+When there's no more rain, the plant still needs water, and it's taken from the central vacuole, which starts to shrink. When there's little water left, the vacuole becomes smaller and smaller, and you can see that a plant withers: because all of its cells have shriveled.
 
 ![](chapters/img/06/central-vacuole.png)
+
+
+
+
+# Windpipe Cilia
+Your windpipe is not just an air duct. It actually has tools that help keep your lungs clean.
+
+The lining of the trachea (windpipe) and the bronchi has cilia: small hair-like projections that move back and forth. They sweep the mucus containing trapped debris out of the lungs. It goes up, against the pull of gravity, and up there you cough and dispose of it.
+
+This is how your lungs are kept clean.
+
+Cilia are also found in a woman's reproductive tract: the cilia lining the oviducts help move an egg towards the uterus. Single-celled organisms also use cilia to propel themselves through liquid.
+
+![](chapters/img/06/windpipe-cilia.png)
+
+
+
+# Cilia and Flagella
+Some cells have small cilia to row through the liquid, but others, such as sperm cells, have a single long tail-like **flagellum**. A flagellum has an undulating motion like the tail of a fish (see image, left).
+
+As simple as it looks, the flagellum is a marvelous molecular machine (see image, right).
+
+It consists of microtubules (see image, colored yellow) arranged in the so-called "9 + 2" pattern: 9 pairs of microtubules are arranged around the central pair. All microtubules are linked by proteins (see image, colored blue) that provide structural integrity, yet let it bend.
+
+The bending movement is produced by large motor proteins called **dyneins** (see image, colored red): arrays of them are attached to microtubules. They have feet that push the adjacent pair of microtubules, causing them to slide.
+
+The push of dyneins is coordinated by molecular signals so that it happens only one one side of the flagellum at a time. Then, the coordination signal changes, and the other side of the flagellum operates, bending it into the opposite direction. Bending left, then bending right. The result is the fish-like swimming motion.
+
+A larger picture of this *dynein* motor protein is shown in the circle at the bottom (see image): it's base is attached to one microtubule at the top, and its leg pushes the adjacent microtubule at the bottom.
+
+![](chapters/img/06/flagellum-dynein.png)
+
+Click this video to see this thing in action!
+
+[![](https://img.youtube.com/vi/9nZYlyFGm50/0.jpg)](https://youtube.com/watch?v=9nZYlyFGm50)
+
+
