@@ -320,12 +320,30 @@ Animation:
 
 [![](https://img.youtube.com/vi/9nZYlyFGm50/0.jpg)](https://youtube.com/watch?v=9nZYlyFGm50)
 
-### Microfilaments
+### Microfilaments (Actin Filaments)
+**Microfilaments** is a twisted double-chain of globular **actin** protein subunits. It can be linear, or branched. Microfilaments seem to be present in all eukaryotic cells.
 
+While microtubules has compression-resisting function, the function of microfilaments is to bear tension (pulling forces). They form a three-dimensional network just inside of the plasma membrane and gives the outer cytoplasic layer of a cell (**cortex**) the semi-solid consistency of a gel that helps maintain the cell's shape.
 
+In some cells, like intestinal cells, bundles of microfilaments make up the core of the microvilli.
+
+![](img/06/intestines-microfilaments-sem.png)
+
+Actin filaments play a role in cell motility: thousands of actin filaments interact with thicker **myosin** proteins to cause contraction of muscle cells.
+
+![](img/06/myosin-muscle-contraction.png)
+
+In the unicellular protist *Amoeba* and some of our blood cells, localized contractions are involved in the amoeboid (crawling) movement of the cells: it extends **pseudopodia** and moves toward them.
+
+![](img/06/myosin-amoeboid-movement.png)
+
+In plant cells, actin-protein interactions contribute to **cytoplasmit streaming**: a circular flow of cytoplasm within cells.
+
+![](img/06/myosin-cytoplasmic-streaming.png)
 
 
 ## 6.7. Extracellular components and connections between cells help coordinate cellular activities
+
 
 
 ## 6.8. A cell is greater than the sum of its parts
