@@ -423,3 +423,11 @@ Click this video to see this thing in action!
 
 
 
+
+
+# Сокращение Мышц
+Как происходит сокращение мышц?
+
+[![](https://img.youtube.com/vi/KRWLpAgIH9U/0.jpg)](https://youtube.com/watch?v=KRWLpAgIH9U)
+
+
