@@ -344,6 +344,60 @@ In plant cells, actin-protein interactions contribute to **cytoplasmit streaming
 
 ## 6.7. Extracellular components and connections between cells help coordinate cellular activities
 
+### Cell Walls of Plants
+The **cell wall** is one of the features that distinguishes plant cells from animal cells. The wall protects the plant cell, maintains its shape, and prevents excessibe uptake of water.
+
+At the level of the whole plant, the strong walls of specialized cells hold the plant up against the force of gravity.
+
+Prokaryotes, some protists, and fungi, also have cell walls.
+
+The wall is much thicker than the membrane: 0.1μm+. Its microfibrils are made of cellulose which is made by the enzyme "cellulose synthase", and secreted into the extracellular space, where they become embedded in a matrix of other polysaccharides and proteins.
+
+Cell wall has the same basic architectural design as steel-reinforced concrete and fiberglass: the combination of materials, strong fibers, and a ground substance (matrix).
+
+A young cell secretes a relatively thin and flexible **primary cell wall**. **Middle lamella** is a thin space between the walls of adjacent cells: it contains sticky polysaccharides called pectins: it glues the adjacent walls together. (Pectin is a thickening agent used in jams and jellies).
+
+When a mature cell stops growing, it strengthens its wall: some cells do this simply by secreting hardening substances into the primary wall; other cells add a **secondary wall** underneath the primary wall. Wood, for instance, consists mainly of strong secondary walls.
+
+![](img/06/plant-cell-walls.png)
+
+### The Extracellular Matrix (ECM)
+Animal cells don't have cell walls, but they have an elaborate **extracellular matrix (ECM)**: glycoproteins and other carbohydrate-containing molecules secreted by the cells.
+
+**Collagen** forms many strong fibers outside the cells. It is so abundant that it accounts for about 40% of the total protein in human body.
+
+Collagen fibers are embedded in a network woven out of **proteoglycans**. A proteoglycan molecule consists of a single long polysaccharide, with many proteoglycan molecules noncovalently attached, each molecule having a small core protein with many carbohydrate chains covalently attached to it, so that it may be up to 95% carbohydrate.
+
+![](img/06/extracellular-matrix.png)
+
+In some cells, *fibronectin** attaches ECM proteins to **integrins** that span the membrane and bind to microfilaments of the cytoskeleton. Integrins can transmit signals between the ECM and the cytoskeleton and thus *to integrate* changes occurring outside and inside the cell and regulare the cell's behavior.
+
+Researchers have learned that the ECM can influence the activity of genes in the nucleus. The information is probably communicated by a combination of mechanical and chemical signalling pathways.
+
+### Cell Junctions
+Neighboring cells in a tissue often adhere, interact, and communicate via sites of direct physical contact.
+
+#### Plasmodesmata in Plant Cells
+Many plant cell walls are not continuous: they are perforated by **plasmodesmata** (Gk. *desma*, bond): channels that connect cells so that the cytoplasm of one cell is continuous with the cytoplasm of its neighbors.
+
+Membranes of adjacent cells line the channel and thus are also continuous.
+
+Plasmodesmata unify most of the plant into one living continuum: water and small solutes can pass freely from cell to cell, and in some circumstances, certain proteins and RNA molecules can do this as well. Macromolecules appear to reach plasmodesmata by moving along fibers of the cytoskeleton.
+
+![](img/06/plasmodesmata.png)
+
+#### Cell Junctions in Animal Cells
+In animals, there are three main types of cell junctions: *tight junctions*, *desmosomes*, and *gap junctions*. Every junction has a specialized function.
+
+All three types of cell junctions are especially common in epithelial tissue which lines the external and internal surfaces of the body. The following figure uses epithelial cells of the intestinal lining to illustrate these junctions.
+
+![](img/06/cell-junctions.png)
+
+*Tight junctions* prevent fluids from the external environment from getting into the space between the cells.
+
+*Desmosomes*, or anchoring junctions, appear as thickened patches in the cell membrane region. They contain specialized proteins, such as keratene, the same protein found in fingernails and hair, that increase the rigidity of tissues. These are button-like junctions that bind cells together, and also act as anchorage for fibers in the cytoskeleton.
+
+In *gap junctions*, or communicating junctions, the gap between the cells is bridged by a specialized channel that allows the passage of water and small molecules. It also serves communicational purposes: for example, a hormone that activates one cell will often activate adjacent cells as well by the passage of intracellular signals through gap junctions.
 
 
 ## 6.8. A cell is greater than the sum of its parts

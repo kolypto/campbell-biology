@@ -335,11 +335,11 @@ The resulting small organic building blocks are then released into the cytoplasm
 # Vacuoles
 Why do plants wither when you do not water them?
 
-Plant cells have a **central vacuole**: a large bubble, surrounded by a membrane, that contains cell sap. This is cell's main repository of water, and also inorganic ions.
+Plant cells have a **central vacuole**: a large bubble, surrounded by a membrane, that contains cell sap. This is the cell's main repository of water and inorganic ions.
 
-Plants can't walk, so when it rains, it has to store as much water as it can. The plant absorbs water, and exsessive water is stored inside this central vacuole. It becomes bigger as more water is absorbed, and can become really huge: up to the point where the rest of the cell occupies only a thin layer between the central vacuole and the plasma membrane.
+Plants can't walk, so when it rains, they have to store as much water as they can. A plant absorbs water, and excessive water is stored inside this central vacuole. It becomes bigger as more water is absorbed, and can become really huge: up to the point where the rest of the cell occupies only a thin layer between the central vacuole and the plasma membrane.
 
-When there's no more rain, the plant still needs water, and it's taken from the central vacuole, which starts to shrink. When there's little water left, the vacuole becomes smaller and smaller, and you can see that a plant withers: because all of its cells have shriveled.
+When there's no more rain, the plant still needs water, and it's taken from the central vacuole, which starts to shrink. As the water is used up, the vacuole becomes smaller and smaller, and you can see that a plant withers: because all of its cells have shriveled.
 
 ![](chapters/img/06/central-vacuole.png)
 
@@ -349,7 +349,7 @@ When there's no more rain, the plant still needs water, and it's taken from the 
 # Windpipe Cilia
 Your windpipe is not just an air duct. It actually has tools that help keep your lungs clean.
 
-The lining of the trachea (windpipe) and the bronchi has cilia: small hair-like projections that move back and forth. They sweep the mucus containing trapped debris out of the lungs. It goes up, against the pull of gravity, and up there you cough and dispose of it.
+The lining of the trachea (windpipe) and the bronchi has cilia: small hair-like projections that move back and forth. They sweep the mucus out of the lungs, and this mucus contains trapped debris. It goes up, against the pull of gravity, and up there you cough and dispose of it.
 
 This is how your lungs are kept clean.
 
@@ -360,15 +360,15 @@ Cilia are also found in a woman's reproductive tract: the cilia lining the ovidu
 
 
 # Cilia and Flagella
-Some cells have small cilia to row through the liquid, but others, such as sperm cells, have a single long tail-like **flagellum**. A flagellum has an undulating motion like the tail of a fish (see image, left).
+Some cells have small cilia to row through the liquid, but others, such as sperm cells, have a long tail-like **flagellum**. A flagellum performs an undulating motion like the tail of a fish (see image, left).
 
-As simple as it looks, the flagellum is a marvelous molecular mechanism (see image, right).
+As simple as it looks, the flagellum is a marvelous molecular mechanism.
 
 It consists of microtubules (see image, colored yellow) arranged in the so-called "9 + 2" pattern: 9 pairs of microtubules are arranged around the central pair. All microtubules are linked by elastic proteins (see image, colored blue).
 
 The bending movement is produced by large motor proteins called **dyneins** (see image, colored red): arrays of them are attached to microtubules. They have feet that push the adjacent pair of microtubules, causing them to slide past each other. When this "frame" changes shape, the flagellum bends.
 
-The push of dyneins is coordinated by molecular signals: the "push" happens only one one side of the flagellum at a time. Then the coordination signal changes, and the other side of the flagellum become active, bending it into the opposite direction. Bending left, then bending right. The result is the fish-like swimming motion.
+The push of dyneins is coordinated by molecular signals: the "push" happens only one one side of the flagellum at a time. When the coordination signal changes, the other side of the flagellum become active, bending it into the opposite direction. Bending left, then bending right. The result is the fish-like swimming motion that propels the cell.
 
 A larger picture of this *dynein* motor protein is shown in the circle at the bottom (see image): it's base is attached to one microtubule at the top, and its leg pushes the adjacent microtubule at the bottom.
 
@@ -386,5 +386,26 @@ Click this video to see this thing in action!
 How do muscles contract?
 
 [![](https://img.youtube.com/vi/pE8s7Lnnt0g/0.jpg)](https://youtube.com/watch?v=pE8s7Lnnt0g)
+
+
+
+
+
+
+# How Are Cells Attached to One Another?
+TODO: rewrite
+
+In animals, there are three main types of cell junctions: *tight junctions*, *desmosomes*, and *gap junctions*. Every junction has a specialized function.
+
+All three types of cell junctions are especially common in epithelial tissue which lines the external and internal surfaces of the body. The following figure uses epithelial cells of the intestinal lining to illustrate these junctions.
+
+![](chapters/img/06/cell-junctions.png)
+
+*Tight junctions* prevent fluids from the external environment from getting into the space between the cells.
+
+*Desmosomes*, or anchoring junctions, appear as thickened patches in the cell membrane region. They contain specialized proteins, such as keratene, the same protein found in fingernails and hair, that increase the rigidity of tissues. These are button-like junctions that bind cells together, and also act as anchorage for fibers in the cytoskeleton.
+
+In *gap junctions*, or communicating junctions, the gap between the cells is bridged by a specialized channel that allows the passage of water and small molecules. It also serves communicational purposes: for example, a hormone that activates one cell will often activate adjacent cells as well by the passage of intracellular signals through gap junctions.
+
 
 
