@@ -297,15 +297,17 @@
 # Плазматическая Мембрана
 Каждая живая клетка окружена мембраной. Мы обычно думаем, что это такая оболочка, отделяющая клетку от внешней среды. Но мембрана умеет намного больше, чем кажется на первый взгляд.
 
-Клетке для жизнедеятельности нужнен кислород и питательные вещества, так мембране нужно уметь впускать их внутрь клетки. Но мембрана не должна запускать внутрь всё подряд, но быть избирательной. При этом, в клетке образуются отходы, от которых нужно избавляться, и мембрана должна уметь их выпускать. Но она не должна выбрасывать из себя всё подряд.
+Клетке для жизнедеятельности нужнен кислород и питательные вещества, так мембране нужно уметь впускать их внутрь клетки. Но мембрана не должна запускать внутрь всё подряд, а быть избирательной. При этом, в клетке образуются отходы, от которых нужно избавляться, и мембрана должна уметь их выпускать. Но она не должна выбрасывать из себя всё подряд.
 
-Поэтому мембрана обладает *выборочной проницаемостью*. Она контролирует проход веществ изнутри наружу, и снаружи вовнутрь, определяя, что и куда может пройти.
+Получается, мембрана должна выбирать, что пропускать, а что нет?
 
-Некоторые вещества могут постепенно сочиться сквозь мембрану: например, глюкоза, аминокислоты, жирные кислоты, и прочие. Это пассивная проницаемость. Но есть и активная траспортировка, которую обеспецивают белки, встроенные в мембрану (см. картинку, фиолетовые вставки). Эти белки работают как транспортировочные механизмы, которые прокачивают через себя определённые молекулы: `K`, `Na`, `Cl`, `H₂O`, и другие. Некоторые из них действуют постоянно; другие активируются только по сигналу.
+Так и есть. Мембрана клетки обладает *выборочной проницаемостью*: она контролирует проход веществ изнутри наружу, и снаружи вовнутрь, определяя, что и куда может пройти.
 
-В мембране также могут быть вставлены ферменты: молекулярные конструкции, которые проводят определённые химические реакции. Например, в кишечнике в оболочку клеток встроены пищеварительные ферменты, которые разлагают сложные сахара на простые, разбирают сложные белки на аминокислоты, и все эти базовые компоненты усваиваютс организмом для того, чтобы использовать в собственных клетках.
+Некоторые вещества могут постепенно сочиться сквозь мембрану: например, глюкоза, аминокислоты, жирные кислоты, и прочие. Это пассивная проницаемость. Но есть и активная траспортировка, которую обеспечивают белки, встроенные в мембрану (см. картинку, фиолетовые вставки). Эти белки работают как транспортировочные механизмы, которые прокачивают через себя определённые молекулы: `K`, `Na`, `Cl`, `H₂O`, и другие. Некоторые из них оперируют постоянно; другие активируются только при получении сигнала.
 
-На поверхности мембраны также есть углеводные "хвостики" (см. картинку, зелёным цветом). Эти поверхностные углеводы выполняют функцию маркеров: это как паспорт клетки, по которому они узнают друг друга. В частности, поверхностные углеводы позволяют имунным клеткам опознавать клетки организма, то есть "своих", и отличать их от "чужих". Благодаря этому механизму, имунные клетки атакуют чужеродные бактерии, но не трогают клетки нашего организма.
+В мембране также могут быть вставлены ферменты: молекулярные конструкции, которые проводят определённые химические реакции. Например, в кишечнике в оболочку клеток встроены пищеварительные ферменты, которые разлагают сложные сахара на простые, разбирают сложные белки на аминокислоты, и все эти базовые компоненты усваиваются организмом для того, чтобы использовать в собственных клетках. Для того мы и един все эти белки, жиры, и углеводы :)
+
+На поверхности мембраны также есть углеводные "хвостики" (см. картинку, зелёного цвета). Эти поверхностные углеводы выполняют функцию маркеров: это как паспорт, по которому клетки узнают друг друга. В частности, поверхностные углеводы позволяют имунным клеткам опознавать клетки организма, то есть "своих", и отличать их от "чужих". Благодаря этому механизму, имунные клетки атакуют чужеродные бактерии, но не трогают клетки "своего" организма.
 
 Так что мембрана — это не просто мешок. Это паспорт клетки. Это избирательный насос. Это поверхность, проводящая химические реакции. И это граница, решающая, что пропустить внутрь, а что нет.
 
@@ -456,3 +458,33 @@ All three types of cell junctions are especially common in epithelial tissue whi
 
 In *gap junctions*, or communicating junctions, the gap between the cells is bridged by a specialized channel that allows the passage of water and small molecules. It also serves communicational purposes: for example, a hormone that activates one cell will often activate adjacent cells as well by the passage of intracellular signals through gap junctions.
 
+
+
+
+
+# Carbon Dating: How Does it Work?
+TODO: translate
+How do scientists estimate the age of a fossil?
+
+The bodies of living organisms have a lot of carbon. In the periodic table, carbon is number 6, which means that it has 6 protons and 6 neutrons in its nucleus: a total of 12 particles. We call it **Carbon-12**, or just carbon.
+
+The atmosphere also contains a small amount of **Carbon-14**: it's the same atom, but with two extra neutrons. It's a radioactive isotope: this means that it decays over time. But because of cosmic rays that constantly produce more Carbon-14, the ratio of C-14 to C-12 remains constant.
+
+This Carbon-14 from the air is absorbed by plants and is incorporated into their molecules. As both isotopes are constantly absorbed from the air, the ratio of C-14/C-12 in plant tissues remains the same. Then animals eat these plants, so the C-14/C-12 ratio in animal tissues and bones is also constant.
+
+Once an organism dies, it stops eating and breathing. There is no intake of fresh Carbon-14, and the existing Carbon-14 continues to decay, while Carbon-12 remains stable.
+
+Radioactive isotopes decay at a fixed rate that is not affected by temperature nor pressure. This rate of decay is called **half-life** of the isotope. For Carbon-14, the half-life period is 5730 years: this means that every 5730 years half of the atoms decay.
+
+Thus, by measuring the C-14/C-12 ratio in a fossil, and comparing it to the original ratio in the atmosphere, we can calculate how long the pool of original ¹⁴C has been decaying.
+For instance, if we know that in a certain fossil, half of its Carbon-14 atoms have decayed, it must have been dead for around 5730 years.
+
+The problem is to pin-point the original C-14/C-12 ratio in the ancient air: how would we know how much Carbon-14 did the organism contain while it was alive centuries ago?
+
+Scientists use air bubbles trapped in ice cores to calibrate the method, and the age of the ice core itself can be estimated using potassium dating, which involves another round of *radiometric dating*. Tree rings, sediments, and other measurements are used to estimate the composition of ancient air.
+
+New information may lead to carbon-dating method recalibration. Such recalibration leads to a reassessment of previous results. Sometimes the shifts are subtle. Sometimes the previous result is 100 years off.
+
+A bigger issue is sample contamination: the minuscule amount of Carbon-14 in the sample makes it very difficult to measure and extremely sensitive to contamination.
+
+![](img/wonderful/carbon-dating-ru.jpg)

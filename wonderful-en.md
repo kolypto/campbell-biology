@@ -409,3 +409,31 @@ In *gap junctions*, or communicating junctions, the gap between the cells is bri
 
 
 
+
+
+
+# Carbon Dating: How Does it Work?
+How do scientists estimate the age of a fossil?
+
+The bodies of living organisms have a lot of carbon. In the periodic table, carbon is number 6, which means that it has 6 protons and 6 neutrons in its nucleus: a total of 12 particles. We call it **Carbon-12**, or just carbon.
+
+The atmosphere also contains a small amount of **Carbon-14**: it's the same atom, but with two extra neutrons. It's a radioactive isotope: this means that it decays over time. But because of cosmic rays that constantly produce more Carbon-14, the ratio of C-14 to C-12 remains constant.
+
+This Carbon-14 from the air is absorbed by plants and is incorporated into their molecules. As both isotopes are constantly absorbed from the air, the ratio of C-14/C-12 in plant tissues remains the same. Then animals eat these plants, so the C-14/C-12 ratio in animal tissues and bones is also constant.
+
+Once an organism dies, it stops eating and breathing. There is no intake of fresh Carbon-14, and the existing Carbon-14 continues to decay, while Carbon-12 remains stable.
+
+Radioactive isotopes decay at a fixed rate that is not affected by temperature nor pressure. This rate of decay is called **half-life** of the isotope. For Carbon-14, the half-life period is 5730 years: this means that every 5730 years half of the atoms decay.
+
+Thus, by measuring the C-14/C-12 ratio in a fossil, and comparing it to the original ratio in the atmosphere, we can calculate how long the pool of original ¹⁴C has been decaying.
+For instance, if we know that in a certain fossil, half of its Carbon-14 atoms have decayed, it must have been dead for around 5730 years.
+
+The problem is to pin-point the original C-14/C-12 ratio in the ancient air: how would we know how much Carbon-14 did the organism contain while it was alive centuries ago?
+
+Scientists use air bubbles trapped in ice cores to calibrate the method, and the age of the ice core itself can be estimated using potassium dating, which involves another round of *radiometric dating*. Tree rings, sediments, and other measurements are used to estimate the composition of ancient air.
+
+New information may lead to carbon-dating method recalibration. Such recalibration leads to a reassessment of previous results. Sometimes the shifts are subtle. Sometimes the previous result is 100 years off.
+
+A bigger issue is sample contamination: the minuscule amount of Carbon-14 in the sample makes it very difficult to measure and extremely sensitive to contamination.
+
+![](img/wonderful/carbon-dating.jpg)
