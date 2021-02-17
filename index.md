@@ -16,6 +16,7 @@
 
 ## Unit 2. The Cell
 * [6. A Tour of the Cell](chapters/06-Tour-of-the-Cell.html)
+* [7. Membrane Structure and Function](chapters/07-Membrane-Structure-and-Function.html)
 
 ## Unit 3. Genetics
 ## Unit 4. Mechanisms of Evolution
