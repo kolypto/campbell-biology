@@ -400,7 +400,41 @@ All three types of cell junctions are especially common in epithelial tissue whi
 In *gap junctions*, or communicating junctions, the gap between the cells is bridged by a specialized channel that allows the passage of water and small molecules. It also serves communicational purposes: for example, a hormone that activates one cell will often activate adjacent cells as well by the passage of intracellular signals through gap junctions.
 
 
-## 6.8. A cell is greater than the sum of its parts
+## Macrophage
+
+Processes in a cell happen in a co-ordinated fashion.
+For instance, consider the microscopic scene in the figure below. A macrophage helps to defend the mammalian body against infections by ingesting bacteria: the small red cells (see image).
+
+In order to do this, the macrophage crawls along a surface and reaches out to the bacteria with thin pseudopodia. Actin filaments interact with the cytoskeleton in these movements.
+
+After the macrophage engulfs the bacteria, the sac containing the bacteria fuses with a lysosomes that contains digestive enzymes.
+
+All these components are manufactured by ribosomes that build cell's proteins.
+
+And every process mentioned here requires energy which mitochondria supply in the form of ATP.
+
+If any of these complicated processes was missing, the macrophage would be an inert piece of matter, unable to act.
+
+![](img/06/macrophage.png)
 
 
+## Visualization of the Molecular Machinery in a Cell
+
+![](img/06/molecular-machinery-membrane-proteins.png)
+
+![](img/06/molecular-machinery-cellular-respiration.png)
+
+![](img/06/molecular-machinery-photosynthesis.png)
+
+![](img/06/molecular-machinery-nucleus.png)
+
+![](img/06/molecular-machinery-transcription.png)
+
+![](img/06/molecular-machinery-translation.png)
+
+![](img/06/molecular-machinery-cytoskeleton.png)
+
+![](img/06/molecular-machinery-motor-proteins.png)
+
+![](img/06/molecular-machinery-all.png)
 

@@ -437,3 +437,25 @@ New information may lead to carbon-dating method recalibration. Such recalibrati
 A bigger issue is sample contamination: the minuscule amount of Carbon-14 in the sample makes it very difficult to measure and extremely sensitive to contamination.
 
 ![](img/wonderful/carbon-dating.jpg)
+
+
+
+
+
+# Coordinated Activity within Cells
+
+Processes in a cell happen in a coordinated fashion.
+For instance, consider the microscopic scene in the figure below. A macrophage helps to defend the mammalian body against infections by ingesting bacteria: the small red cells (see image).
+
+In order to do this, the macrophage crawls along a surface and reaches out to the bacteria with thin pseudopodia. Actin filaments interact with the cytoskeleton in these movements.
+
+After the macrophage engulfs the bacteria, the sac containing the bacteria fuses with a lysosomes that contains digestive enzymes.
+
+All these components are manufactured by ribosomes that build cell's proteins.
+
+And every process mentioned here requires energy which mitochondria supply in the form of ATP.
+
+If any of these complicated processes was missing, the macrophage would be an inert piece of matter.
+
+![](chapters/img/06/macrophage.png)
+
