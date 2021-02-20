@@ -387,6 +387,7 @@ How do muscles contract?
 
 [![](https://img.youtube.com/vi/pE8s7Lnnt0g/0.jpg)](https://youtube.com/watch?v=pE8s7Lnnt0g)
 
+![](img/wonderful/muscle-spasms.jpg)
 
 
 
