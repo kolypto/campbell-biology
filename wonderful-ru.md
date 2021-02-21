@@ -343,25 +343,44 @@
 
 ![](chapters/img/06/intertestinal-microvilli-ru.png)
 
-The outer membrane is actually not the only membrate a cell has.
+Клетка окружена мембраной, но это не единственная её мембрана.
 
-In addition to the plasma membrane, plant and animal cells have extensive, elaborately arranged internal membranes that divide the cell into compartments: **the organelles**. The compartments provide different local environments that support specific metabolic functions, so incompatible checmical processes can occur simultaneously in a single cell.
+Кроме *плазматической мембраны*, в клетках животных и растений есть множество внутренних мембран, которые разделяют их внутренний объём на выделенные области: **органеллы**. Благодаря такому разделению, в каждой органелле создаётся своя особая среда для проведения локальных метаболических процессов. Таким образом, в рамках одной клетки могут происходит химические процессы, которые иначе были бы несовместимы друг с другом.
 
-All membranes participate directly in the cell's chemical processes because many enzymes are built right into the membranes. Each type of membrane has a unique composition, suited to its specific functions.
+Мы рассмотрели как мембраны имеют выборочную проницаемость, но они так же непосредственно участвуют в химических процессах клетки: в каждую мембрану встроены ферменты, которые способы осуществлять процессы, соответствующие функции конкретной органеллы.
 
-For instance, the endoplasmic reticulum (see image: the blue structure). It is the cell's biosynthesis factory. Its membrane is filled with enzymes: tools that carry out specific chemical reactions. They make fats, steroid hormones, process carbohydrates, and carry out other reactions. It also detoxifies drugs and poisons. In response to increased dosages of drugs, poisons, and alcohol, the endoplasmic reticulum would grow, increasing its detoxifying rate. This is how a person can get used to drugs, poisons, and alcohol, so that larger doses are necessary.
+Например, так называемый *эндоплазматический ретикулум* (на картинке, сразу около ядра, синего цвета) — это целая фабрика биологического синтеза, окружённая мембраной со встроенными в неё ферментами, осуществляющими эти реакции. Они способы производить жиры, гормоны, обрабатывать углеводы, и производить множество других процессов.
 
-Consider the nucleus: it is the central part of the cell where the DNA redides (see picture: the violet structure). The nucleus is surrounded by a membrane which has pores (see picture: pimples on the nucleus). These pores are not just holes: these are intricate protein mechanisms that can recognize large molecules by specific signal sequences and then actively transport them through the pore. Its performance is incredible: one pore can actively conduct 1000 translocations per second.
+Эта же органелла нейтрализует яды, токсины и, к сожалению, некоторые лекарственные средства. Чувствуя увеличение концентрации лекарственного средства, *эндоплазматический ретикулум* разрастается, увеличивая число ферментов противостоящих веществу, и лучше справлясь с "обезвреживанием" лекарства.
 
-The endoplasmic reticulum (see image: again, the blue structure) also has areas where ribosomes are built into membranes. As a copy of some DNA gene (called *RNA*) leaves the nucleus through the pore, it may attach itself to a ribosome. The ribosome is a molecular factory that reads the DNA code like tape: instruction by instruction, the code is executed, and a protein is assembled from the amino acid sequence specified in that code.
+Вот почему эффективность лекарства может падать со временем. По той же причине организм можно малыми дозами "приучить" к ядам, как это делали раньше.
 
-Once proteins are produced, they can leave the reticulum, which has an interesting solution for their transportation. The reticulum's membrane can form vesicles: "bubbles" of membrane that enclose proteins and act as shipping containers. Some vesicles would go to the golgi apparatus (see image, green structure) where the membrane of the vesicle fuses with it, releasing proteins. They would undergo further processing, then some of them would leave the cell in another vesicle (see image: this greenish bubble on the image).
+Человеку, долго не пившему алкоголь, даже пиво легко "даст в голову", потому что его *эндоплазматический ретикулум* был не готов. Но через буквально несколько вечеров, он разрастётся в нужном месте, увеличив свою способность перерабатывать алкоголь, и сможет справиться с поставленной задачей.
 
-Remember the motor protein? It was carrying a large bubble: a vesicle, a shipping container for biological molecules. The motor protein delivers it to a proper place. For instance, to the plasma membrane, where the bubble fuses with it and leaves the cell.
+![](chapters/img/06/structure-cell-small-step1-ru.png)
 
-This is how secretion works. From the DNA in the nucleus, all the way to the plasma membrane.
+Давайте взглянем как другие мембраны в клетке участвуют в секреции.
 
-![](chapters/img/06/structure-cell-small-ru.png)
+Секреция — это выделение жидкости клеткой вместе с растворёнными в ней веществами. Например, это пот, слизь, слюна, слёзная жидкость. Это не просто жидкость: в ней, например, находится белок лизоцим, способный разрушать клеточные стенки бактерий. Да, наши слёзы и сопли имеют антибактериальное действие :)
+
+Давайте проследим, как происходит секреция внутри клетки.
+
+Взгляните на **ядро**: это большая фиолетовая структура в центре (см. картинку). Именно там находится ДНК, в котором закодированы инструкции по производству всех белков в нашем организме, включая те которые мы сейчас будем сопровождать.
+
+Ядро окружено двойной мембраной, в которой предусмотрены **поры** для того, чтобы информацией можно было делиться. Каждая пора — это не просто отверстие: это хитрое сплетение десятков белков, которые способны детектировать крупные молекулы с помощью специальных сигнальных последовательностей и активным образом осуществлять транспортировку этих молекул сквозь себя. Такой шлюз со сканером.
+У него потрясающая производительность: каждая пора способна детектить и пропускать 1000 крупных молекул в секунду!
+
+Так, в ядре делается копия участка ДНК, отвечающего за определённый белок, и эта копия через пору проходит в **эндоплазматический ретикулум** (см. рисунок, синего цвета). В его мембрану встроены **рибосомы**: это сложные фабрики по производству белков. Копия гена ДНК, только что попавшая в эту область через пору, подцепляется к рибомоме, и начинается считывание инструкций по сборке белка. Одну за одной, рибосома соединяет аминокислоты в последовательность, указанную в коде ДНК.
+
+Когда белок собран, он готов к отправке, и для этого у *эндоплазматического ретикулума* есть интересный метод транспортировки: формирование пузырьков, называемых **везикула** (см. картинку, схема справа). Участок мембраны выгибается, захватывает в себя горстку свежесобранных белков, и его шейка "перетягивается" особым моторным белком, словно завязанный воздушный шарик. Такой пузырёк теперь может путешествовать по клетке, и его содержимое полностью изолировано. Доставка контейнерами, не меньше.
+
+Многие пузырьки, вместе с грузом, отправятся в **аппарат Гольджи**: это сортировочный центр клетки, сделанный из системы мембранных мешочков. Наш пузырёк сливается с ним, выпуская свой груз в аппарат Гольджи, где белки могут дорабатываться. По завершению сортировки и обработки, готовые белки снова заключаются в пузырёк-везикулу, и направляются к внешней мембране клетки.
+
+Помните анимацию, где моторный белок тянул пузырёк? Именно так и происходит транмпортировка *везикул*: они не плавают сводно. Это грузовой контейнер, и его тащит за собой небольшой молекулярный грузовичок, точно в заданном направлении.
+
+Так работает секреция: когда вам вкусно, в слюнной железе машинерия многих клеточек делает копии ДНК, формирует белки из аминокислот, оборачивает их в пузырьки, которые подхватывают моторные белки и бегом несут их к внешней мембране, чтобы высвободить их в вашу ротовую полость.
+
+![](chapters/img/06/structure-cell-vesicle-formation.png)
 
 
 
