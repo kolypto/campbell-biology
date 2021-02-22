@@ -453,9 +453,11 @@ In order to do this, the macrophage crawls along a surface and reaches out to th
 
 The macrophage engulfs the bacteria creating a sac around it: a bubble that is now inside the macrophage. Then a lysosome, another vesicle containing digestive enzymes, fuses with it, and the enzymes disassemble the bacteria into the basic building blocks of life: carbohydrates, amino acids, and other substances.
 
-This process is made possible by coordinated activities within the macrophage. Ribosomes build proteins: emzymes, motor proteins, and others. Things get delivered to the right locations to perform their functions. Rigid parts of the cell interact with one another to produce movement in the right direction. Signalling pathways make sure that the right things happen at the right time. And every process mentioned here requires energy, which is supplied by the mitochondria organelle in toe form of ATP.
+This process is made possible by coordinated activities within the macrophage. Ribosomes build proteins: emzymes, motor proteins, and others. Things get delivered to the right locations to perform their functions. Rigid parts of the cell interact with one another to produce movement in the right direction. Signalling pathways make sure that the right things happen at the right time. And every process mentioned here requires energy, which is supplied by the mitochondria organelle in the form of ATP.
 
 If any of these complicated processes was missing, the macrophage would be an inert piece of matter.
 
 ![](chapters/img/06/macrophage.png)
+
+Video: [![](https://img.youtube.com/vi/ilS3FzuN-uQ/0.jpg)](https://youtube.com/watch?v=ilS3FzuN-uQ)
 
