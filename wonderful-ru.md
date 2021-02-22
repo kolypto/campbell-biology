@@ -386,7 +386,10 @@
 
 
 # Lysosome
-Wonder how cells keep themselves young?
+Как клетки остаются молодыми?
+
+Новые клетки появляются делением, но после деления они не остаются неизменными. В клетке есть механизмы обновления своих органелл.
+
 
 Have a look at the **lysosome**: a sac made of membrane with enzymes that can digest large molecules such as sugars, fats, and proteins. These enzymes require acidic environment for their function: an environment that would be dangerous to cell's organelles, so this environment is localized to a lysosome. A dangerous sac of digestive stuff.
 
@@ -524,21 +527,20 @@ A bigger issue is sample contamination: the minuscule amount of Carbon-14 in the
 
 
 
+
 # Coordinated Activity within Cells
-TODO: translate
 
 Processes in a cell happen in a coordinated fashion.
+
 For instance, consider the microscopic scene in the figure below. A macrophage helps to defend the mammalian body against infections by ingesting bacteria: the small red cells (see image).
 
-In order to do this, the macrophage crawls along a surface and reaches out to the bacteria with thin pseudopodia. Actin filaments interact with the cytoskeleton in these movements.
+In order to do this, the macrophage crawls along a surface and reaches out to the bacteria with thin pseudopodia, using mechanics similar to that of muscle contraction we've seen recently: it involves an interaction between rigid filaments and the cytoskeleton of the cell.
 
-After the macrophage engulfs the bacteria, the sac containing the bacteria fuses with a lysosomes that contains digestive enzymes.
+The macrophage engulfs the bacteria creating a sac around it: a bubble that is now inside the macrophage. Then a lysosome, another vesicle containing digestive enzymes, fuses with it, and the enzymes disassemble the bacteria into the basic building blocks of life: carbohydrates, amino acids, and other substances.
 
-All these components are manufactured by ribosomes that build cell's proteins.
-
-And every process mentioned here requires energy which mitochondria supply in the form of ATP.
+This process is made possible by coordinated activities within the macrophage. Ribosomes build proteins: emzymes, motor proteins, and others. Things get delivered to the right locations to perform their functions. Rigid parts of the cell interact with one another to produce movement in the right direction. Signalling pathways make sure that the right things happen at the right time. And every process mentioned here requires energy, which is supplied by the mitochondria organelle in toe form of ATP.
 
 If any of these complicated processes was missing, the macrophage would be an inert piece of matter.
 
-![](chapters/img/06/macrophage.png)
+![](chapters/img/06/macrophage-ru.png)
 
