@@ -40,6 +40,8 @@ Membranes must be fluid to work properly: the fluidity of a membrane affects bot
 
 Usually, membranes are about as fluid as olive oil.
 
+###
+
 
 ## 7.2. Membrane structure results in selective permeability
 
