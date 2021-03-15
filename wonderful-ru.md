@@ -420,6 +420,10 @@ https://youtube.com/watch?v=mv6Ehv06mXY
 
 [![Amoeba eats paramecia ( Amoeba's lunch )](https://img.youtube.com/vi/mv6Ehv06mXY/0.jpg)](https://youtube.com/watch?v=mv6Ehv06mXY)
 
+Ещё больше одноклеточной жестокости :)
+
+[![](https://img.youtube.com/vi/4XlzCe5gDu0/0.jpg)](https://youtube.com/watch?v=4XlzCe5gDu0)
+
 
 
 # Vacuoles

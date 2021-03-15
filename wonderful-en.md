@@ -10,6 +10,9 @@ An amoeba having lunch. It extends pseudopodia to "hug" the victim. This shape-c
 
 [![Amoeba eats paramecia ( Amoeba's lunch )](https://img.youtube.com/vi/mv6Ehv06mXY/0.jpg)](https://youtube.com/watch?v=mv6Ehv06mXY)
 
+More unicellular brutality :)
+
+[![](https://img.youtube.com/vi/4XlzCe5gDu0/0.jpg)](https://youtube.com/watch?v=4XlzCe5gDu0)
 
 
 # Ants Shoot Acid
