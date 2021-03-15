@@ -414,7 +414,7 @@
 
 На этом видео амёба, одноклеточный организм, кушает инфузорию. Амёба выпускает ложноножки и обступает незадачливую инфузорию со всех сторон.
 
-На видео хорошо видно, как перетекает цитоплазка: внутренее вещество клетки.
+На видео хорошо видно, как перетекает цитоплазма: внутреннее вещество клетки.
 
 https://youtube.com/watch?v=mv6Ehv06mXY
 
@@ -426,14 +426,16 @@ https://youtube.com/watch?v=mv6Ehv06mXY
 
 
 
-# Vacuoles
-Why do plants wither when you do not water them?
+# Вакуоль
+Почему растения вянут, если их не поливать?
 
-Plant cells have a **central vacuole**: a large bubble, surrounded by a membrane, that contains cell sap. This is the cell's main repository of water and inorganic ions.
+В клетках растений есть **центральная вакуоль**: такой большой пузырь из мембраны, внутри которого находится клеточный сок. Эта ёмкость — основной запас воды и растворённых в ней неорганических веществ.
 
-Plants can't walk, so when it rains, they have to store as much water as they can. A plant absorbs water, and excessive water is stored inside this central vacuole. It becomes bigger as more water is absorbed, and can become really huge: up to the point where the rest of the cell occupies only a thin layer between the central vacuole and the plasma membrane.
+Растения не могут ходить за водой, поэтому во время дождя им нужно запасти как можно больше воды. Когда растение пьёт воду, излишки запасаются внутри этой центральной выкуоли. Эта вакуоль может увеличиваться до весьма больших размеров: вплоть до того, что вся остальная клетка превращается лишь в тонкий слой цитоплазмы, зажатый между огромной центральной вакуолью и плазматической мембраной (клеточной стенкой).
 
-When there's no more rain, the plant still needs water, and it's taken from the central vacuole, which starts to shrink. As the water is used up, the vacuole becomes smaller and smaller, and you can see that a plant withers: because all of its cells have shriveled.
+Когда дождя уже нет, растению для жизни всё равно нужна вода, и оно использует запасы из центральной вакуоли, которая, естественно, начинает уменьшаться по мере расхода воды. Когда вакуоль сильно уменьшается в размерах, растение становится "подвядшим" потому, что во всех клетках растения центральные вакуоли сдулись и стали словно вялые воздушные шарики, от чего все его клеточки "скукожились", и растение поникло.
+
+Но стоит его хорошенько полить, оно снова наберёт воды и воспрянет :)
 
 ![](chapters/img/06/central-vacuole.png)
 
