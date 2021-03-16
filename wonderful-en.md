@@ -397,18 +397,18 @@ How do muscles contract?
 
 
 # How Are Cells Attached to One Another?
-We all have an idea how cells look like: small, rounded things, packed together. But how to they hold to one another and stay together?
+We all have an idea how cells look like: small, rounded things. But how to they hold on to one another and stay together?
 
-Turns out, animal cells have three different ways to make cells stick together.
+Turns out, animal cells have three different ways to make cells stick together:
 
-**Tight junctions**. In this junction, the membranes of adjacent cells are literally sown together by multiple parallel seams (see picture; boxed, top). It forms a continuous seal that prevents fluids from the external environment from getting into the space between the cells.
+**Tight junctions**. In this junction, the membranes of adjacent cells are literally sewn together by multiple parallel seams (see picture; boxed, top). It forms a continuous seal that prevents fluids from the external environment from getting into the space between the cells.
 For example, tight junctions between skin cells make us watertight.
 
-**Desmosomes**. This is the anchoring button-like junction that binds cells together (see picture; boxed, middle). These junctions fasten cells together into strong sheets. They also act as anchorage for fibers of the cell's cytoskeleton.
+**Desmosomes**. This is the anchoring button-like junction that binds cells together into strong sheets (see picture; boxed, middle). They also act as anchorage for fibers of the cell's cytoskeleton.
 For example, desmosomes attach muscle cells to each other in a muscle tissue. Some "muscle tears" involve the rupture of the desmosomes.
 
-**Gap junctions**. This junction creates a channel between two cells that allows the passage of water and small molecules (see picture; boxed, bottom). It also serves communicational purposes: for example, a hormone that activates one cell will often activate adjacent cells as well by the passage of intracellular signals through gap junctions.
-Gap junctions are necessary for communication between cells in many tissues, such as heart muscle and in animal embryos.
+**Gap junctions**. This junction creates a channel between two cells that allows the passage of water and small molecules (see picture; boxed, bottom). It also serves communicational purposes: a hormone that activates one cell will often activate adjacent cells as well by the passage of intracellular signals through gap junctions.
+Gap junction communication is important in many tissues, such as heart muscle and in animal embryos.
 
 So, three types of junctions: a watertight one; a strong one; and a communicative one.
 
@@ -451,7 +451,6 @@ A bigger issue is sample contamination: the minuscule amount of Carbon-14 in the
 
 
 # Coordinated Activity within Cells
-
 Processes in a cell happen in a coordinated fashion.
 
 For instance, consider the microscopic scene in the figure below. A macrophage helps to defend the mammalian body against infections by ingesting bacteria: the small red cells (see image).
@@ -469,22 +468,10 @@ If any of these complicated processes was missing, the macrophage would be an in
 Video: [![](https://img.youtube.com/vi/ilS3FzuN-uQ/0.jpg)](https://youtube.com/watch?v=ilS3FzuN-uQ)
 
 
-# HIV and surface proteins
-TODO: rewrite; post to Dignio
-
-
-
-Surface proteins are important in the medical field. For example, it was discovered that some people, despite multiple exposures to HIV, do not develop AIDS and show no evidence of HIV-infected cells. Comparing their genes with the genes of infected individuals, researchers learned that resistant people have an unusual form of a gene that codes for an immune cell-surface protein called CCR5. Further work showed that although the CD4 protein on the surface of immune cells helps HIV infect those cells, HIV must also bind to CCR5 as a "co-receptor" to infect most cells. An absence of CCR5 on the cells of resistant individuals, due to gene alteration, prevents the virus from entering the cells.
-
-This information has been key to developing a treatment for HIV: interfering with CD4 causes dangerous side-effects because of its many important functions in cells; CCR5 is a safer target for development of drugs that mask this protein and block HIV entry.
-
-![](chapters/img/07/hiv-resistance-CCR5.png)
-
 
 # The Role of Membrane Carbohydrats in Cell-Cell Recognition
 TODO: rewrite; post to Dignio
-
-Cell recognition is a cell's ability to distinguish one type of neighboring cell from another. It is important, for example, in the sorting of cells into tissues and organs in an animal embryo. It is also the basis for the rejection of forign cells by the immune system.
+Cell recognition is a cell's ability to distinguish one type of neighboring cell from another. It is important, for example, in the sorting of cells into tissues and organs in an animal embryo. It is also the basis for the rejection of foreign cells by the immune system.
 
 Cells recognize other cells by binding to molecules on the surface of the plasma membrane. These molecules are usually short, branched, chains of carbohydrates, bonded to lipids (forming *glycolipids*) or proteins (forming *glycoproteins*).
 
@@ -495,3 +482,17 @@ For example, the four human blood types, designated A, B, AB, and O, reflect var
 ![](chapters/img/07/red_blood_cell_types_and_carbohydrates.png)
 
 
+
+# HIV and surface proteins
+We've mentioned that a cell's membrane is more than just a bag; it is actually an active region that can perform chemical reactions and transportation of molecules. This is handled by surface proteins that are embedded into the membrane.
+
+Surface proteins also serve another function: signalling. A protein may serve as a receptor for chemical signals that binds to specific molecules.
+
+The study of surface proteins is important in the medical field.
+For example, it was discovered that some people, despite multiple exposures to HIV, do not develop AIDS and show no evidence of HIV-infected cells. Comparing their genes with the genes of infected individuals, researchers learned that resistant people have an unusual form of a gene that codes for an immune cell-surface protein called `CCR5`.
+
+Further work showed that even though HIV binds to another protein called `CD4`, HIV must also bind to this `CCR5` as a "co-receptor" to infect most cells. An absence of `CCR5` on the cells of resistant individuals, due to gene alteration, prevents the virus from entering the cells.
+
+This information has been key to developing a treatment for HIV: interfering with `CD4` causes dangerous side-effects because of its many important functions in cells; `CCR5` is a safer target for development of drugs that mask this protein and block HIV entry.
+
+![](chapters/img/07/hiv-resistance-CCR5.png)

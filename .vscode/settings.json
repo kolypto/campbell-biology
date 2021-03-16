@@ -9,6 +9,7 @@
         "cristae",
         "cytoskeleton",
         "daltons",
+        "desmosomes",
         "endocytosis",
         "endomembrane",
         "exocytosis",
@@ -23,7 +24,9 @@
         "proteoglycan",
         "reticulum's",
         "rnas",
-        "splitted"
+        "splitted",
+        "подвядшим",
+        "самоочищаются"
     ],
     "cSpell.language": "en,ru",
     "cSpell.diagnosticLevel": "Hint"

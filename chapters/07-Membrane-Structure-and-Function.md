@@ -74,8 +74,8 @@ This information has been key to developing a treatment for HIV: interfering wit
 ![](img/07/hiv-resistance-CCR5.png)
 
 
-### The Role of Membrane Carbohydrats in Cell-Cell Recognition
-Cell recognition is a cell's ability to distinguish one type of neighboring cell from another. It is important, for example, in the sorting of cells into tissues and organs in an animal embryo. It is also the basis for the rejection of forign cells by the immune system.
+### The Role of Membrane Carbohydrates in Cell-Cell Recognition
+Cell recognition is a cell's ability to distinguish one type of neighboring cell from another. It is important, for example, in the sorting of cells into tissues and organs in an animal embryo. It is also the basis for the rejection of foreign cells by the immune system.
 
 Cells recognize other cells by binding to molecules on the surface of the plasma membrane. These molecules are usually short, branched, chains of carbohydrates, bonded to lipids (forming *glycolipids*) or proteins (forming *glycoproteins*).
 
