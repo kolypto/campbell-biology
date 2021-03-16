@@ -397,19 +397,23 @@ How do muscles contract?
 
 
 # How Are Cells Attached to One Another?
-TODO: rewrite; post to Dignio
+We all have an idea how cells look like: small, rounded things, packed together. But how to they hold to one another and stay together?
 
-In animals, there are three main types of cell junctions: *tight junctions*, *desmosomes*, and *gap junctions*. Every junction has a specialized function.
+Turns out, animal cells have three different ways to make cells stick together.
 
-All three types of cell junctions are especially common in epithelial tissue which lines the external and internal surfaces of the body. The following figure uses epithelial cells of the intestinal lining to illustrate these junctions.
+**Tight junctions**. In this junction, the membranes of adjacent cells are literally sown together by multiple parallel seams (see picture; boxed, top). It forms a continuous seal that prevents fluids from the external environment from getting into the space between the cells.
+For example, tight junctions between skin cells make us watertight.
 
-![](chapters/img/06/cell-junctions.png)
+**Desmosomes**. This is the anchoring button-like junction that binds cells together (see picture; boxed, middle). These junctions fasten cells together into strong sheets. They also act as anchorage for fibers of the cell's cytoskeleton.
+For example, desmosomes attach muscle cells to each other in a muscle tissue. Some "muscle tears" involve the rupture of the desmosomes.
 
-*Tight junctions* prevent fluids from the external environment from getting into the space between the cells.
+**Gap junctions**. This junction creates a channel between two cells that allows the passage of water and small molecules (see picture; boxed, bottom). It also serves communicational purposes: for example, a hormone that activates one cell will often activate adjacent cells as well by the passage of intracellular signals through gap junctions.
+Gap junctions are necessary for communication between cells in many tissues, such as heart muscle and in animal embryos.
 
-*Desmosomes*, or anchoring junctions, appear as thickened patches in the cell membrane region. They contain specialized proteins, such as keratene, the same protein found in fingernails and hair, that increase the rigidity of tissues. These are button-like junctions that bind cells together, and also act as anchorage for fibers in the cytoskeleton.
+So, three types of junctions: a watertight one; a strong one; and a communicative one.
 
-In *gap junctions*, or communicating junctions, the gap between the cells is bridged by a specialized channel that allows the passage of water and small molecules. It also serves communicational purposes: for example, a hormone that activates one cell will often activate adjacent cells as well by the passage of intracellular signals through gap junctions.
+![](img/wonderful/cell-junctions.png)
+
 
 
 
