@@ -71,8 +71,29 @@ Surface proteins are important in the medical field. For example, it was discove
 
 This information has been key to developing a treatment for HIV: interfering with CD4 causes dangerous side-effects because of its many important functions in cells; CCR5 is a safer target for development of drugs that mask this protein and block HIV entry.
 
+![](img/07/hiv-resistance-CCR5.png)
+
 
 ### The Role of Membrane Carbohydrats in Cell-Cell Recognition
+Cell recognition is a cell's ability to distinguish one type of neighboring cell from another. It is important, for example, in the sorting of cells into tissues and organs in an animal embryo. It is also the basis for the rejection of forign cells by the immune system.
+
+Cells recognize other cells by binding to molecules on the surface of the plasma membrane. These molecules are usually short, branched, chains of carbohydrates, bonded to lipids (forming *glycolipids*) or proteins (forming *glycoproteins*).
+
+These carbohydrate tags vary from species to species; they also vary among individuals of the same species; they even vary from one cell type to another in a single individual. Such diversity makes them sufficiently unique to function as markers that distinguish one cell from another.
+
+For example, the four human blood types, designated A, B, AB, and O, reflect variation in the carbohydrate part of the glycoproteins on the surface of red blood cells.
+
+![](img/07/red_blood_cell_types_and_carbohydrates.png)
+
+
+### Synthesis and Sidedness of Membranes
+The two lipid layers of the membrane may differ in lipid composition, and each *integral protein* has directional orientation in the membrane.
+The asymmetrical arrangement is determined as the membrane is being built.
+
+![](img/07/synthesis-of-membrane-components-and-their-orientation.png)
+
+
+
 
 
 ## 7.2. Membrane structure results in selective permeability
