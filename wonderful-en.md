@@ -470,14 +470,19 @@ Video: [![](https://img.youtube.com/vi/ilS3FzuN-uQ/0.jpg)](https://youtube.com/w
 
 
 # The Role of Membrane Carbohydrats in Cell-Cell Recognition
-TODO: rewrite; post to Dignio
-Cell recognition is a cell's ability to distinguish one type of neighboring cell from another. It is important, for example, in the sorting of cells into tissues and organs in an animal embryo. It is also the basis for the rejection of foreign cells by the immune system.
+Cells have means to recognize the type of the neighboring cell and tell them apart from other types of cells. This feature is important, for example, in the sorting of cells into tissues and organs in an animal embryo. This is also how our immune systems detect foreign cells and attack them.
 
-Cells recognize other cells by binding to molecules on the surface of the plasma membrane. These molecules are usually short, branched, chains of carbohydrates, bonded to lipids (forming *glycolipids*) or proteins (forming *glycoproteins*).
+This is how the mechanism works. Cells recognize other cells by binding to special marker molecules on the surface of their plasma membranes. These markers are usually chains of carbohydrates that are short and branched. These carbohydrates are attached to a lipid base (forming *glycolipids*, i.e. "sugar-lipids") or a protein base (forming *glycoproteins*), i.e. "sugar-proteins").
 
 These carbohydrate tags vary from species to species; they also vary among individuals of the same species; they even vary from one cell type to another in a single individual. Such diversity makes them sufficiently unique to function as markers that distinguish one cell from another.
 
-For example, the four human blood types, designated A, B, AB, and O, reflect variation in the carbohydrate part of the glycoproteins on the surface of red blood cells.
+For example, the four human blood types, designated A, B, AB, and O, differ in this carbohydrate markers on the surface of red blood cells. For this reason, if a wrong blood type is transfused to a person, the immune system would reject foreign blood cells and attack them because it sees a foreign carbohydrate marker.
+
+On the picture below you can see why people with type "O" blood are universal donors: their red blood cells have no markers on its surface: it has neither "purple circles" nor "green diamonds", so the immune system does not detect it as foreign. However, no other blood type can be transfused to such a person because antibodies in their blood would bind to these sites and destroy the transfused red blood cells. This can lead to fever, renal impairment, and death.
+
+Type "A" blood has "purple circles" on its surface, and the immune system of such patients has no antigens for such markers so it does not attack it. Type "A" blood is also tolerated by "A" and "AB" recipients who similarly have no antibodies that would detect "purple circles" and attack it. Type "B" blood can also be transfused to "B" and "AB" recipients.
+
+Type "AB" blood can only be transfused to "AB" patients: a patient with any other blood type would have antibodies that would destroy "AB" blood cells that have both kinds of markers on its surface. Easy target.
 
 ![](chapters/img/07/red_blood_cell_types_and_carbohydrates.png)
 
