@@ -104,6 +104,16 @@ Nonpolar molecules (CO₂, O₂, lipids) are hydrophobic and can therefore disso
 
 Polar molecules (sugars, water) can still cross the membrane, but slowly. A charged atom or molecule and its surrounding shell of water are even less likely to penetrate the hydrophobic interior of the membrane.
 
+### Transport Proteins
+**Channel proteins** create a hydrophilic channel that some polar molecules and ions can use as a tunnel through the membrane.
+
+For example, **aquaporins** facilitate the passage of water molecules in certain cells. Molecules can pass through it single-file. It allows ~3 billion water molecules per second. Without aquaporins, only a tiny fraction of these water molecules would pass through the same area of the cell membrane.
+
+**Carrier proteins** hold on to their passengers and change shape in a way that shuttles them across the membrane.
+
+A transport protein is specific for the substance it translocates (moves). For instance, a glucose transport protein in the plasma membrane of red blood cells is so selective that it even rejects fructose, its structural isomer.
+
+
 
 
 ## 7.3. Passive transport is diffusion of a substance across a membrane with no energy investment
