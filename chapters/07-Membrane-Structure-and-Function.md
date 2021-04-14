@@ -97,6 +97,12 @@ The asymmetrical arrangement is determined as the membrane is being built.
 
 
 ## 7.2. Membrane structure results in selective permeability
+A membrane exhibits **selective permeability**: that is, it allows some substances to cross more easily than others.
+
+### The Permeability of the Lipid Bilayer
+Nonpolar molecules (CO₂, O₂, lipids) are hydrophobic and can therefore dissolve in the lipid bilayer and cross it easily without the aid of membrane proteins.
+
+Polar molecules (sugars, water) can still cross the membrane, but slowly. A charged atom or molecule and its surrounding shell of water are even less likely to penetrate the hydrophobic interior of the membrane.
 
 
 
